@@ -1,0 +1,153 @@
+.wrapper {
+    display: flex;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+
+#sidebar {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    height: 100vh;
+    background:black;
+    color: white;
+    transition: all 0.3s;
+}
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+#sidebar ul p {
+    color: white;
+    padding: 10px;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+}
+
+#sidebar ul li a:hover {
+    color: slateblue;
+    background: white;
+}
+
+ul ul a {
+    font-size: .9em;
+    padding-left: 30px;
+    background: crimson;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.1em;
+    font-weight: 200;
+    line-height: 1.7em;
+    color:cornflowerblue;
+}
+#header1 {
+    color: cornflowerblue;
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+
+figure {
+    position: relative;
+    width: auto;
+    height: auto;
+    text-align: center;
+    line-height: 100%;
+}
+
+img{
+    height: auto;
+    width: auto;
+    border-radius: 6px;
+    border: solid;
+    position: relative;
+    overflow: hidden;
+    margin: auto;
+}
+em {
+    color: black;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.lead {
+    text-align: center;
+}
+
+.jumbotron.jumbotron-fluid {
+    border-radius: 6px;
+    border: solid;
+    background: honeydew;
+    text-align: center;
+}
+
+.btn-link:active.btn-link:hover,.btn-link:focus{
+    background: cornflowerblue;
+}
+
+#accordion {
+    background-color: honeydew;
+    border-radius: 6px;
+    border: solid;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: .7 ;
+}
+
+.fa-twitter {
+    background: #55acee;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+.jumbotron.text-center {
+    background-color: darkred;
+}
+#footer {
+    text-align: center;
+}
+
+.container {
+    display: block;
+}
+
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+    #sidebar.active {
+        margin-left:0;
+    }
+}

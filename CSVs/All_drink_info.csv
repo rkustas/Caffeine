@@ -1,0 +1,775 @@
+drinks,caff_cont,fluid_oz,mg_per_oz,url
+10 Hour Energy Shot,422,1.93,218.7,https://www.caffeineinformer.com/caffeine-content/10-hour-eternal-shot
+28 Black Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/28-energy-drink-black-white
+3 Water ,50,16.9,3.0,https://www.caffeineinformer.com/caffeine-content/3-caffeine-water
+3D Energy Drink,200,16.0,12.5,https://www.caffeineinformer.com/caffeine-content/3d-energy-drink
+4 Purpose Energy Drink,70,8.46,8.3,https://www.caffeineinformer.com/caffeine-content/4-purpose
+4C Energy Liquid Water Enhancers,60,8.0,7.5,https://www.caffeineinformer.com/caffeine-content/4c-energy-water-enhancers
+4C Energy Rush,80,8.0,10.0,https://www.caffeineinformer.com/caffeine-content/4-c-energy-rush
+5 Hour Energy,200,2.0,100.0,https://www.caffeineinformer.com/caffeine-content/5-hour-energy
+5 Hour Energy Decaf,6,2.0,3.0,https://www.caffeineinformer.com/caffeine-content/5-hour-decaf
+5 Hour Energy Extra Strength,230,2.0,115.0,https://www.caffeineinformer.com/caffeine-content/5-hour-extra-strength
+7 Eleven Brewed Coffee,280,16.0,17.5,https://www.caffeineinformer.com/caffeine-content/7-eleven-brewed-coffee
+7 Select Coffee Energy Shot,150,2.0,75.0,https://www.caffeineinformer.com/caffeine-content/7-eleven-coffee-energy
+7-Eleven Energy Shot,260,2.0,130.0,https://www.caffeineinformer.com/caffeine-content/7-eleven-energy-shot
+7-Up,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/7-up
+A&W Cream Soda,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/a-w-cream-soda
+A&W Root Beer,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/aw-root-beer
+ABB Turbo Tea,120,18.0,6.7,https://www.caffeineinformer.com/caffeine-content/diet-turbo-punch
+Ace Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/ace-energy-drink
+Acute Fruit Energy Drink,213,15.5,13.7,https://www.caffeineinformer.com/caffeine-content/acute-fruit-energy-drink
+Adrenaline Shoc,300,16.0,18.8,https://www.caffeineinformer.com/caffeine-content/adrenaline-shoc-energy-drink
+Advocare Slam Energy Shot,120,2.0,60.0,https://www.caffeineinformer.com/caffeine-content/slam-energy-drink
+Advocare Slim,120,8.0,15.0,https://www.caffeineinformer.com/caffeine-content/advocare-slim
+Afri Cola,89,12.0,7.4,https://www.caffeineinformer.com/caffeine-content/afri-cola
+AHA Sparkling Water,30,12.0,2.5,https://www.caffeineinformer.com/caffeine-content/aha-sparkling-water
+Ale 8 1,37,12.0,3.1,https://www.caffeineinformer.com/caffeine-content/ale-8-1
+Alpine Start Instant Coffee,120,8.0,15.0,https://www.caffeineinformer.com/caffeine-content/alpine-start
+Alsa Energy Drink,100,16.0,6.2,https://www.caffeineinformer.com/caffeine-content/alsa-energy
+Americano Coffee,154,12.0,12.8,https://www.caffeineinformer.com/caffeine-content/caffe-americano
+Amp Energy Cherry Blast,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/amp-cherry-blast
+Amp Energy Drink,142,16.0,8.9,https://www.caffeineinformer.com/caffeine-content/amp-energy-drink
+Amp Strawberry Limeade,156,16.0,9.8,https://www.caffeineinformer.com/caffeine-content/amp-strawberry-limeade
+Arbonne Energy Fizz Stck,55,8.0,6.9,https://www.caffeineinformer.com/caffeine-content/arbonne-energy-drink
+Arby's Jamocha Shake,12,16.0,0.7,https://www.caffeineinformer.com/caffeine-content/jamocha-shake
+Archer Farms Energy Drink,100,12.0,8.3,https://www.caffeineinformer.com/caffeine-content/archer-farms-energy-drink
+Arizona Arnold Palmer Half and Half,43,23.0,1.9,https://www.caffeineinformer.com/caffeine-content/arnold-palmer-half-and-half
+Arizona Energy Drink Rx,144,11.5,12.5,https://www.caffeineinformer.com/caffeine-content/arizona-caution-energy-drink
+Arizona Iced Tea,38,20.0,1.9,https://www.caffeineinformer.com/caffeine-content/arizona-iced-tea
+Arizona Natural Energy,120,15.5,7.7,https://www.caffeineinformer.com/caffeine-content/arizona-natural-energy
+Avitae Caffeinated Water,125,16.9,7.4,https://www.caffeineinformer.com/caffeine-content/avitae-caffeine-water
+AXIO Energy Drink,100,12.0,8.3,https://www.caffeineinformer.com/caffeine-content/axio
+B 63 Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/b-63-energy-drink
+Bai Antioxidant Infusion,70,18.0,3.9,https://www.caffeineinformer.com/caffeine-content/bai-drink
+BANG Energy Drink,300,16.0,18.8,https://www.caffeineinformer.com/caffeine-content/bang-energy-drink
+Barista Bros Iced Coffee,219,16.91,13.0,https://www.caffeineinformer.com/caffeine-content/barista-bros
+Barq's Red Creme Soda,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/barqs-red-creme-soda
+Barq's Root Beer,22,12.0,1.8,https://www.caffeineinformer.com/caffeine-content/barqs-root-beer
+Baskin Robbins Cappuccino Blast,234,24.0,9.8,https://www.caffeineinformer.com/caffeine-content/baskin-robbins-cappuccino-blast
+Battery Energy Drink,106,11.2,9.5,https://www.caffeineinformer.com/caffeine-content/battery-energy-drink
+Battery Juiced Energy Drink,144,15.0,9.6,https://www.caffeineinformer.com/caffeine-content/battery-juiced-energy-drink
+Bawls,64,10.0,6.4,https://www.caffeineinformer.com/caffeine-content/bawls
+Bawls Cherry,100,16.0,6.2,https://www.caffeineinformer.com/caffeine-content/bawls-cherry
+Bawls Exxtra,150,16.0,9.4,https://www.caffeineinformer.com/caffeine-content/bawls-exxtra-energy-drink
+Bawls Orange,64,10.0,6.4,https://www.caffeineinformer.com/caffeine-content/bawls-orange
+Bawls Root Beer,100,16.0,6.2,https://www.caffeineinformer.com/caffeine-content/bawls-geek-beer
+Bazi Energy Drink,80,2.0,40.0,https://www.caffeineinformer.com/caffeine-content/bazi-energy-drink
+Beaver Buzz Energy Drink,178,16.0,11.1,https://www.caffeineinformer.com/caffeine-content/beaver-buzz-energy-drink
+BEEBAD Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/beebad-energy-drink
+Berocca,90,8.0,11.2,https://www.caffeineinformer.com/caffeine-content/berocca
+Berzerk Energy Drink,225,16.0,14.1,https://www.caffeineinformer.com/caffeine-content/berzerk
+Big Jak Energy Drink,164,16.0,10.2,https://www.caffeineinformer.com/caffeine-content/big-red-jak-energy-drink
+Big Red Soda,34,12.0,2.8,https://www.caffeineinformer.com/caffeine-content/big-red-soda
+Big Train Java Chip Ice Coffee,49,8.0,6.1,https://www.caffeineinformer.com/caffeine-content/big-train-java-chip-ice-coffee
+Big Train Spiced Chai,65,8.0,8.1,https://www.caffeineinformer.com/caffeine-content/big-train-spiced-chai
+Bigelow Tea,45,8.0,5.6,https://www.caffeineinformer.com/caffeine-content/bigelow-tea
+Biggby Brewed Coffee,200,16.0,12.5,https://www.caffeineinformer.com/caffeine-content/biggby-coffee
+Biggby Creamy Lattes,100,16.0,6.2,https://www.caffeineinformer.com/caffeine-content/biggby-coffee-latte
+Biggby Espresso,100,2.0,50.0,https://www.caffeineinformer.com/caffeine-content/biggby-espresso-shot
+Biggby Frozen Lattes,100,16.0,6.2,https://www.caffeineinformer.com/caffeine-content/biggby-coffee-frozen-latte
+Biggby Iced Coffee,192,16.0,12.0,https://www.caffeineinformer.com/caffeine-content/biggby-iced-coffee
+Biggby Iced Tea,38,16.0,2.3,https://www.caffeineinformer.com/caffeine-content/biggby-iced-tea
+Bing Energy Drink,120,12.0,10.0,https://www.caffeineinformer.com/caffeine-content/bing-energy-drink
+Biohazard Coffee,928,12.0,77.3,https://www.caffeineinformer.com/caffeine-content/biohazard-coffee
+Bizzy Cold Brew,750,16.0,46.9,https://www.caffeineinformer.com/caffeine-content/bizzy-coffee
+Black Bruin Energy Drink,38,8.46,4.4,https://www.caffeineinformer.com/caffeine-content/black-bruin-energy-drink
+Black Insomnia Coffee,1105,12.0,92.1,https://www.caffeineinformer.com/caffeine-content/black-insomnia-coffee
+Black Label Brewed Coffee,1555,12.0,129.6,https://www.caffeineinformer.com/caffeine-content/black-label
+Black Medicine Iced Coffee,206,11.0,18.7,https://www.caffeineinformer.com/caffeine-content/black-medicine
+Blood Energy Potion,80,3.4,23.5,https://www.caffeineinformer.com/caffeine-content/blood-energy-potion
+BLU Energy Drinks,80,8.4,9.5,https://www.caffeineinformer.com/caffeine-content/blu-energy-drinks
+Blu Frog Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/blu-frog-energy-drink
+Blue Bolt,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/blue-bolt-energy-drink
+Blue Charge,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/asda-blue-charge
+Blue Spark Energy Drink,75,8.46,8.9,https://www.caffeineinformer.com/caffeine-content/tesco-blue-spark
+Bomb Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/bomb-energy-drink
+Bomba Energy Drink,75,8.4,8.9,https://www.caffeineinformer.com/caffeine-content/bomba-energy-drink
+Boost Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/boost-energy-drink
+Boost Nutritional Drink,5,8.0,0.6,https://www.caffeineinformer.com/caffeine-content/boost-chocolate-drink
+Booty Sweat Energy Drink,80,8.4,9.5,https://www.caffeineinformer.com/caffeine-content/booty-sweat-energy-drink
+Bottled Iced Coffee Dunkin Donuts,171,13.7,12.5,https://www.caffeineinformer.com/caffeine-content/iced-coffee-bottled-dunkin
+Brew Dr Kombucha Uplift,130,14.0,9.3,https://www.caffeineinformer.com/caffeine-content/brew-dr-uplift
+Brown Rice Tea,4,8.0,0.5,https://www.caffeineinformer.com/caffeine-content/brown-rice-tea
+Bubly Sparkling Water,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/bubly
+Bulletproof Coffee,145,8.0,18.1,https://www.caffeineinformer.com/caffeine-content/bulletproof-coffee
+Burn Energy Drink,160,16.91,9.5,https://www.caffeineinformer.com/caffeine-content/burn-uk
+Buzz Monkey,78,8.46,9.2,https://www.caffeineinformer.com/caffeine-content/buzz-monkey-energy-drink
+C4 On The Go,200,16.0,12.5,https://www.caffeineinformer.com/caffeine-content/c4-energy-drink
+Cafe Bustelo,150,12.0,12.5,https://www.caffeineinformer.com/caffeine-content/bustelo-coffee
+Cafe Viva Probiotic Coffee,125,8.0,15.6,https://www.caffeineinformer.com/caffeine-content/cafe-viva
+Caffe Mocha,152,12.0,12.7,https://www.caffeineinformer.com/caffeine-content/cafe-mocha
+Caffe Monster Energy Coffee,175,13.7,12.8,https://www.caffeineinformer.com/caffeine-content/monster-bottled-coffee
+Caffe Nero Coffee,120,12.0,10.0,https://www.caffeineinformer.com/caffeine-content/caffe-nero-coffee
+Caffeinated Club Soda,34,12.0,2.8,https://www.caffeineinformer.com/caffeine-content/caffeinated-club-soda
+Caleb's Kola,26,10.0,2.6,https://www.caffeineinformer.com/caffeine-content/calebs-kola
+Califia Farms Cold Brew Coffee,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/califia-cold-brew
+Canada Dry Green Tea Ginger Ale,9,12.0,0.8,https://www.caffeineinformer.com/caffeine-content/green-tea-ginger-ale
+Cannabis Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/cannabis-energy-drink
+Cannonball Coffee Maximum Charge,1101,12.0,91.8,https://www.caffeineinformer.com/caffeine-content/cannonball-coffee
+Cappuccino,154,12.0,12.8,https://www.caffeineinformer.com/caffeine-content/cappuccino
+Carabao Energy Drink,106,11.16,9.5,https://www.caffeineinformer.com/caffeine-content/carabao
+Caribou Brewed Coffee,305,16.0,19.1,https://www.caffeineinformer.com/caffeine-content/caribou-coffee
+CBD Coffee,100,8.0,12.5,https://www.caffeineinformer.com/caffeine-content/cbd-coffee-green-roads
+Celsius Energy Drink,200,12.0,16.7,https://www.caffeineinformer.com/caffeine-content/celsius-energy-drink
+Celsius Heat Energy Drink,300,16.0,18.8,https://www.caffeineinformer.com/caffeine-content/celsius-heat
+Chai Tea,50,8.0,6.2,https://www.caffeineinformer.com/caffeine-content/chai-tea
+Chameleon Cold Brew Coffee,208,6.0,34.7,https://www.caffeineinformer.com/caffeine-content/chameleon-cold-brew-coffee
+Chameleon Cold Brew RTD Coffee,230,10.0,23.0,https://www.caffeineinformer.com/caffeine-content/chameleon-rtd
+Chameleon Cold Brew With Milk,82,8.0,10.2,https://www.caffeineinformer.com/caffeine-content/chameleon-milk
+Chasing Rabbits Energy drink,120,12.0,10.0,https://www.caffeineinformer.com/caffeine-content/chasing-rabbits
+Cheerwine,48,12.0,4.0,https://www.caffeineinformer.com/caffeine-content/cheerwine
+Cheetah Power Surge,0,24.0,0.0,https://www.caffeineinformer.com/caffeine-content/cheetah-power-surge
+Cherry Coke,34,12.0,2.8,https://www.caffeineinformer.com/caffeine-content/cherry-coke
+Cherry Coke Zero,34,12.0,2.8,https://www.caffeineinformer.com/caffeine-content/coke-zero-cherry
+Chick-fil-A Brewed Coffee,136,10.0,13.6,https://www.caffeineinformer.com/caffeine-content/chick-fil-a-coffee
+Chick-fil-A Frosted Coffee,130,14.0,9.3,https://www.caffeineinformer.com/caffeine-content/chick-fil-a-frosted-coffee
+Chick-fil-A Iced Coffee,80,14.0,5.7,https://www.caffeineinformer.com/caffeine-content/chick-fil-a-iced-coffee
+Chick-fil-A Iced Tea,62,16.0,3.9,https://www.caffeineinformer.com/caffeine-content/chick-fil-a-iced-tea
+Chocolate Milk,5,8.0,0.6,https://www.caffeineinformer.com/caffeine-content/chocolate-milk
+Choffy (roasted cacao),23,6.0,3.8,https://www.caffeineinformer.com/caffeine-content/choffy
+Cintron Energy Drink,85,8.4,10.1,https://www.caffeineinformer.com/caffeine-content/cintron-energy-drink
+Clear Coffee,100,6.77,14.8,https://www.caffeineinformer.com/caffeine-content/clear-coffee
+Clif Shot Turbo Energy Gel,100,1.2,83.3,https://www.caffeineinformer.com/caffeine-content/clif-shot-turbo-energy-gel
+Club Mate,100,16.91,5.9,https://www.caffeineinformer.com/caffeine-content/club-mate
+Co-Operative Diet Cola,50,16.91,3.0,https://www.caffeineinformer.com/caffeine-content/co-op-diet-cola
+Coca-Cola caffeine free,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/coca-cola-free
+Coca-Cola Classic,34,12.0,2.8,https://www.caffeineinformer.com/caffeine-content/coca-cola-classic
+Coca-Cola Energy,114,12.0,9.5,https://www.caffeineinformer.com/caffeine-content/coke-energy-drink
+Coca-Cola Life,28,12.0,2.3,https://www.caffeineinformer.com/caffeine-content/coke-life
+Cocaine Energy Drink,280,8.4,33.3,https://www.caffeineinformer.com/caffeine-content/cocaine-energy-drink
+Cocaine Energy Shot,280,2.0,140.0,https://www.caffeineinformer.com/caffeine-content/cocaine-energy-shot
+Coffee ,163,8.0,20.4,https://www.caffeineinformer.com/caffeine-content/coffee-brewed
+"Coffee (Decaf, Instant)",3,8.0,0.3,https://www.caffeineinformer.com/caffeine-content/coffee-decaf-instant
+Coffee (Instant),57,8.0,7.1,https://www.caffeineinformer.com/caffeine-content/coffee-instant
+Coffee Bean & Tea leaf Coffee,333,16.0,20.8,https://www.caffeineinformer.com/caffeine-content/coffee-bean-tea-leaf-coffee
+Coffee Crave Fearless Black,844,12.0,70.3,https://www.caffeineinformer.com/caffeine-content/coffee-crave
+Coffee Leaf Tea,20,8.0,2.5,https://www.caffeineinformer.com/caffeine-content/coffee-leaf-tea
+COGO Caffeinated Hot Chocolate,98,6.0,16.3,https://www.caffeineinformer.com/caffeine-content/cogo-hot-chocolate
+Coke Zero Sugar,34,12.0,2.8,https://www.caffeineinformer.com/caffeine-content/coke-zero
+CoolBrew Coffee,60,10.0,6.0,https://www.caffeineinformer.com/caffeine-content/cool-brew-coffee
+Costa Coffee,277,8.69,31.9,https://www.caffeineinformer.com/caffeine-content/costa-coffee
+Cran Energy Juice,69,10.0,6.9,https://www.caffeineinformer.com/caffeine-content/cranenergy
+Crave Energy Drink,80,8.43,9.5,https://www.caffeineinformer.com/caffeine-content/crave-energy-drink-mix
+Crio Bru Brewed Cacao,10,8.0,1.2,https://www.caffeineinformer.com/caffeine-content/crio-bru
+Crunk Energy Drink,192,16.0,12.0,https://www.caffeineinformer.com/caffeine-content/crunk-energy-drink
+Crystal Light Energy,60,16.0,3.8,https://www.caffeineinformer.com/caffeine-content/crystal-light-energy
+Crystal Light Focus,40,16.0,2.5,https://www.caffeineinformer.com/caffeine-content/crystal-light-focus
+Crystal Light Iced Tea,11,8.0,1.4,https://www.caffeineinformer.com/caffeine-content/crystal-light-iced-tea
+Crystal Pepsi,63,20.0,3.1,https://www.caffeineinformer.com/caffeine-content/pepsi-crystal
+Cult Cola,75,16.91,4.4,https://www.caffeineinformer.com/caffeine-content/cult-cola
+Cumberland Farms Bottled Latte,90,13.7,6.6,https://www.caffeineinformer.com/caffeine-content/cumberland-farms
+Dare Iced Coffee,160,16.91,9.5,https://www.caffeineinformer.com/caffeine-content/dare-iced-coffee
+Dark Dog Energy Drink,114,12.0,9.5,https://www.caffeineinformer.com/caffeine-content/dark-dog-energy-drink
+Death Wish Canned Cold Brew,300,8.0,37.5,https://www.caffeineinformer.com/caffeine-content/death-wish-canned-cold-brew-coffee
+Death Wish Coffee,728,12.0,60.7,https://www.caffeineinformer.com/caffeine-content/death-wish-coffee
+Death Wish Nitro Brew,381,11.0,34.6,https://www.caffeineinformer.com/caffeine-content/nitro-brew-death-wish-coffee
+Decaf Coffee,6,8.0,0.7,https://www.caffeineinformer.com/caffeine-content/coffee-decaf-brewed
+Demon Energy Drink,160,16.91,9.5,https://www.caffeineinformer.com/caffeine-content/demon-energy
+Demon Energy Shot,200,2.03,98.5,https://www.caffeineinformer.com/caffeine-content/demon-energy-shot
+Diabolo Loco Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/diabolo-loco-energy-drink
+Diet A&W Cream Soda,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/diet-a-w-cream-soda
+Diet Barq's Root Beer,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/diet-barqs
+Diet Cheerwine,48,12.0,4.0,https://www.caffeineinformer.com/caffeine-content/diet-cheerwine
+Diet Cherry Coca-Cola,46,12.0,3.8,https://www.caffeineinformer.com/caffeine-content/diet-cherry-coca-cola
+Diet Coke,46,12.0,3.8,https://www.caffeineinformer.com/caffeine-content/diet-coke
+Diet Coke Plus,45,12.0,3.8,https://www.caffeineinformer.com/caffeine-content/diet-coke-plus
+Diet Coke with Lemon,45,12.0,3.8,https://www.caffeineinformer.com/caffeine-content/diet-coke-lemon
+Diet Coke with Lime,46,12.0,3.8,https://www.caffeineinformer.com/caffeine-content/diet-coke-with-lime
+Diet Coke with Splenda,46,12.0,3.8,https://www.caffeineinformer.com/caffeine-content/diet-coke-with-splenda
+Diet Dr Pepper,41,12.0,3.4,https://www.caffeineinformer.com/caffeine-content/diet-dr-pepper
+Diet Dr Pepper Cherry,39,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/diet-dr-pepper-cherry
+Diet Dr Pepper Cherry Vanilla,39,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/diet-dr-pepper-cherry-vanila
+Diet Mountain Dew,54,12.0,4.5,https://www.caffeineinformer.com/caffeine-content/diet-mountain-dew
+Diet Mr. Pibb,40,12.0,3.3,https://www.caffeineinformer.com/caffeine-content/diet-mr-pibb
+Diet Pepsi,35,12.0,2.9,https://www.caffeineinformer.com/caffeine-content/diet-pepsi-cola
+"Diet Pepsi UK, AU, NZ",43,12.01,3.5,https://www.caffeineinformer.com/caffeine-content/diet-pepsi-uk
+Diet RC Cola,48,12.0,4.0,https://www.caffeineinformer.com/caffeine-content/diet-rc-cola
+Diet Ruby Red Squirt,39,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/diet-ruby-red-squirt
+Diet Sunkist Orange Soda,19,12.0,1.6,https://www.caffeineinformer.com/caffeine-content/diet-sunkist
+Diet Turbo Tea,90,18.0,5.0,https://www.caffeineinformer.com/caffeine-content/diet-turbo-tea
+Diet Vanilla Coke,45,12.0,3.8,https://www.caffeineinformer.com/caffeine-content/diet-vanilla-coke
+Diet Wild Cherry Pepsi,38,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/diet-pepsi-wild-cherry
+doc Soda,100,20.0,5.0,https://www.caffeineinformer.com/caffeine-content/doc-360-soda
+Don Tomas Estate Coffee,145,8.0,18.1,https://www.caffeineinformer.com/caffeine-content/don-tomas-coffee
+Double Cola,36,12.0,3.0,https://www.caffeineinformer.com/caffeine-content/double-cola
+Dr Pepper,41,12.0,3.4,https://www.caffeineinformer.com/caffeine-content/dr-pepper
+Dr Pepper 10,51,12.0,4.2,https://www.caffeineinformer.com/caffeine-content/dr-pepper-10-soda
+Dr Pepper Cherry,39,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/dr-pepper-cherry
+Dr Pepper Cherry Vanilla,39,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/dr-pepper-cherry-vanilla
+Driftaway Coffee,160,8.0,20.0,https://www.caffeineinformer.com/caffeine-content/driftaway-coffee
+Dripdash Kyoto Coffee,225,6.0,37.5,https://www.caffeineinformer.com/caffeine-content/kyoto-coffee
+Duff Energy Drink,120,12.0,10.0,https://www.caffeineinformer.com/caffeine-content/duff-energy-drink
+Dunkin Donuts Bottled Cold Brew,152,9.0,16.9,https://www.caffeineinformer.com/caffeine-content/dunkin-bottled-cold-brew
+Dunkin Donuts Shot In The Dark,134,8.1,16.5,https://www.caffeineinformer.com/caffeine-content/dunkin-shot-in-the-dark
+Dunkin' Cold Brew,260,24.0,10.8,https://www.caffeineinformer.com/caffeine-content/dunkin-cold-brew-coffee
+Dunkin' Donuts Brewed Coffee,210,14.0,15.0,https://www.caffeineinformer.com/caffeine-content/dunkin-donuts-coffee
+Dunkin' Donuts Coolatta,18,24.0,0.8,https://www.caffeineinformer.com/caffeine-content/coolatta
+Dunkin' Donuts Dunkaccino,83,14.0,5.9,https://www.caffeineinformer.com/caffeine-content/dunkaccino
+Dunkin' Donuts Iced Coffee,297,24.0,12.4,https://www.caffeineinformer.com/caffeine-content/dunkin-iced-coffee
+Dunkin' Donuts Iced Latte,151,24.0,6.3,https://www.caffeineinformer.com/caffeine-content/dunkin-iced-latte
+Dunkin' Donuts Iced Tea,67,24.0,2.8,https://www.caffeineinformer.com/caffeine-content/dunkin-iced-tea
+Dunkin' Donuts Latte,151,14.0,10.8,https://www.caffeineinformer.com/caffeine-content/dunkin-donuts-latte
+Dunkin' Donuts Mocha,151,14.0,10.8,https://www.caffeineinformer.com/caffeine-content/dunkin-donuts-mocha
+Dunkin' Energy Cold Brew,345,24.0,14.4,https://www.caffeineinformer.com/caffeine-content/dunkin-energy-cold-brew
+Dutch Bros. Blue Rebel Energy Drink,80,8.4,9.5,https://www.caffeineinformer.com/caffeine-content/blue-rebel-energy-drink
+Dutch Bros. Coffee,256,20.0,12.8,https://www.caffeineinformer.com/caffeine-content/dutch-bros-coffee
+E6 Energy Shot,235,2.0,117.5,https://www.caffeineinformer.com/caffeine-content/e6-energy-shot
+Eboost Energy Drink,110,8.0,13.8,https://www.caffeineinformer.com/caffeine-content/eboost-energy-drink
+EBOOST Energy Shot,150,2.0,75.0,https://www.caffeineinformer.com/caffeine-content/eboost-instant-lift
+EBOOST Super Fuel,110,12.0,9.2,https://www.caffeineinformer.com/caffeine-content/eboost-super-fuel
+EBOOST Workout Crusher,175,8.0,21.9,https://www.caffeineinformer.com/caffeine-content/eboost-workout
+Eight O'Clock Coffee,112,8.0,14.0,https://www.caffeineinformer.com/caffeine-content/eight-o-clock
+Einstein Bros Coffee,206,16.0,12.9,https://www.caffeineinformer.com/caffeine-content/einstein-bros-coffee
+Electric Monkey Wild Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/electric-monkey-wild
+Element Caffeinated Water,50,16.9,3.0,https://www.caffeineinformer.com/caffeine-content/element-caffeinated-water
+Emerge,75,8.46,8.9,https://www.caffeineinformer.com/caffeine-content/emerge-energy-drink
+EnerBee Energy Drink,100,12.0,8.3,https://www.caffeineinformer.com/caffeine-content/enerbee
+Energi-ZING Shake by Nutrisystem,200,8.0,25.0,https://www.caffeineinformer.com/caffeine-content/energi-zing-shake-nutrisystem
+Espresso Shot,77,1.5,51.3,https://www.caffeineinformer.com/caffeine-content/espresso
+Eternal Energy Shot,222,1.93,115.0,https://www.caffeineinformer.com/caffeine-content/eternal-energy-shot
+Euro Shopper Energy Drink,76,8.46,8.9,https://www.caffeineinformer.com/caffeine-content/euroshopper-energy-drink
+Extreme Thermo Rush,200,20.0,10.0,https://www.caffeineinformer.com/caffeine-content/extreme-thermo-rush-energy-drink
+FAB Energy Drink,70,8.46,8.3,https://www.caffeineinformer.com/caffeine-content/forever-active-boost
+Fakeer Energy Drink,118,12.52,9.4,https://www.caffeineinformer.com/caffeine-content/fakeer-energy-drink
+Fanta,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/fanta-soft-drinks
+Fast Lane Black Tea,110,8.0,13.8,https://www.caffeineinformer.com/caffeine-content/fast-lane
+Faygo Cola,42,12.0,3.5,https://www.caffeineinformer.com/caffeine-content/faygo-cola
+Faygo Moon Mist,20,12.0,1.6,https://www.caffeineinformer.com/caffeine-content/faygo-moon-mist
+Flat White,77,8.46,9.1,https://www.caffeineinformer.com/caffeine-content/flat-white-coffee
+Flying Power Energy Drink,106,11.15,9.5,https://www.caffeineinformer.com/caffeine-content/flying-power-energy-drink
+Folgers Coffee,112,8.0,14.0,https://www.caffeineinformer.com/caffeine-content/folgers
+Formula168 Lift Energy Drink,26,12.0,2.2,https://www.caffeineinformer.com/caffeine-content/formula-168-lift
+Formula168 Surge Energy Shot,26,2.0,13.0,https://www.caffeineinformer.com/caffeine-content/formula-168-surge
+Forto Organic Coffee Shot,200,2.0,100.0,https://www.caffeineinformer.com/caffeine-content/forto-coffee
+Fresca,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/fresca
+Fritz Kola,83,11.16,7.4,https://www.caffeineinformer.com/caffeine-content/fritz-kola
+FRS Energy Drink,38,11.0,3.5,https://www.caffeineinformer.com/caffeine-content/frs
+Full Throttle Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/full-throttle-energy-drink
+Full Throttle Frozen Blast,27,8.0,3.4,https://www.caffeineinformer.com/caffeine-content/7-eleven
+Function Alternative Energy,70,16.9,4.1,https://www.caffeineinformer.com/caffeine-content/function-alternative-energy-drink
+Fuze Iced Tea,20,20.0,1.0,https://www.caffeineinformer.com/caffeine-content/fuze-iced-tea
+G Fuel Cans,300,16.0,18.8,https://www.caffeineinformer.com/caffeine-content/g-fuel-rtd-energy-drink
+G Fuel Energy Drink Mix,150,12.0,12.5,https://www.caffeineinformer.com/caffeine-content/g-fuel-energy-drink-mix
+Game Juice,38,16.9,2.2,https://www.caffeineinformer.com/caffeine-content/game-juice-soda
+Gatorade Bolt 24 Energize,53,16.9,3.1,https://www.caffeineinformer.com/caffeine-content/gatorade-energize
+Ginger Ale or Ginger Beer,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/ginger-ale-beer
+Gloria Jean's Coffee,67,2.028,33.0,https://www.caffeineinformer.com/caffeine-content/gloria-jeans-coffee
+Go Fast Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/go-fast-energy-drink
+Go Fast! Coconut,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/go-fast-coconut-energy-drink
+Go Girl Energy Drink,100,11.5,8.7,https://www.caffeineinformer.com/caffeine-content/go-girl-energy-drink
+Gold Peak Coffee,126,8.0,15.8,https://www.caffeineinformer.com/caffeine-content/gold-peak-coffee
+Gold Peak Tea,48,18.5,2.6,https://www.caffeineinformer.com/caffeine-content/gold-peak-tea
+Gourmesso Coffee Pods,65,1.35,48.1,https://www.caffeineinformer.com/caffeine-content/gourmesso
+Great Value Energy Drink Enhancers,50,8.0,6.2,https://www.caffeineinformer.com/caffeine-content/walmart-energy-drink-enhancer
+Great Value Energy Drink Mix,120,16.0,7.5,https://www.caffeineinformer.com/caffeine-content/walmart-energy-drink-mix
+Greek Coffee (Metrios),50,2.0,25.0,https://www.caffeineinformer.com/caffeine-content/greek-coffee
+Green Energy Drink,150,8.46,17.7,https://www.caffeineinformer.com/caffeine-content/green-energy-drink
+Gridlock Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/gridlock-aldi
+Guayaki Canned Yerba Mate,150,16.0,9.4,https://www.caffeineinformer.com/caffeine-content/guayaki-lemon-elation-energy-drink
+Guayaki Energy Shots,140,2.0,70.0,https://www.caffeineinformer.com/caffeine-content/guayaki-energy-shots
+Guayaki Yerba Mate Bottled Tea,140,16.0,8.8,https://www.caffeineinformer.com/caffeine-content/guayaki-pure-yerba-mate
+Guayusa Tea,99,8.0,12.4,https://www.caffeineinformer.com/caffeine-content/guayusa-tea
+GURU Energy Drink,140,12.0,11.7,https://www.caffeineinformer.com/caffeine-content/guru
+GURU Sparkling Energy Water,100,12.0,8.3,https://www.caffeineinformer.com/caffeine-content/guru-energy-water
+Havoc Energy Drink,52,8.4,6.2,https://www.caffeineinformer.com/caffeine-content/havoc-energy-drink
+Hawaiian OLA Noni Energy Shot,150,2.5,60.0,https://www.caffeineinformer.com/caffeine-content/hawaiian-ola-energy-shot
+Hawaiian Ola Sparkling Energy,150,11.5,13.0,https://www.caffeineinformer.com/caffeine-content/ola-energy-drink
+Health Energy Potion,160,2.0,80.0,https://www.caffeineinformer.com/caffeine-content/health-energy-potion
+Heka Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/heka-energy
+Helix Energy Drink,170,16.0,10.6,https://www.caffeineinformer.com/caffeine-content/helix-energy-drink
+Heroec Energy Water,60,16.9,3.6,https://www.caffeineinformer.com/caffeine-content/heroec-water
+Hershey's Chocolate Milk,5,8.0,0.6,https://www.caffeineinformer.com/caffeine-content/hersheys-chocolate-milk
+Hi Ball Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/hi-ball-energy-drink
+HICAF Tea,110,8.0,13.8,https://www.caffeineinformer.com/caffeine-content/hicaf-tea
+High Brew Coffee,163,8.0,20.4,https://www.caffeineinformer.com/caffeine-content/high-brew-coffee
+High Voltage Coffee,1150,12.0,95.8,https://www.caffeineinformer.com/caffeine-content/high-voltage
+Hint Caffeine Kick Water,60,16.0,3.8,https://www.caffeineinformer.com/caffeine-content/hint-kick-water
+Honest Tea,90,16.9,5.3,https://www.caffeineinformer.com/caffeine-content/honest-teas
+Hot Cocoa (Hot Chocolate),5,8.0,0.6,https://www.caffeineinformer.com/caffeine-content/hot-cocoa
+Hyde Power Potion,350,16.0,21.9,https://www.caffeineinformer.com/caffeine-content/hyde-energy-drink
+Hype Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/hype-energy-drinks
+IBC Root Beer,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/ibc-root-beer
+Illy Issimo Cafe,155,6.8,22.8,https://www.caffeineinformer.com/caffeine-content/illy-issimo-latte-macchiato
+Inca Kola,50,16.0,3.1,https://www.caffeineinformer.com/caffeine-content/inca-kola
+Indulgio Cappuccino,20,8.0,2.5,https://www.caffeineinformer.com/caffeine-content/indulgio-cappuccinos
+Inko's White Tea Energy,184,15.5,11.9,https://www.caffeineinformer.com/caffeine-content/inkos-white-tea-energy
+International Delight Iced Coffee,65,8.0,8.1,https://www.caffeineinformer.com/caffeine-content/international-delight
+Irn Bru 32,106,11.16,9.5,https://www.caffeineinformer.com/caffeine-content/irn-bru-32-energy-drink
+iShot Energy Shot,120,2.03,59.1,https://www.caffeineinformer.com/caffeine-content/ishot-energy-shot
+iShot Love Potion,90,2.03,44.3,https://www.caffeineinformer.com/caffeine-content/ishot-love-potion-energy-shot
+iShot Skinny Energy Shot,78,2.03,38.4,https://www.caffeineinformer.com/caffeine-content/ishot-skinny-energy-shot
+Java Kick Energy Drink,84,8.46,9.9,https://www.caffeineinformer.com/caffeine-content/java-kick
+Java Monster,200,15.0,13.3,https://www.caffeineinformer.com/caffeine-content/java-monster
+Jiva Instant Coffee,120,8.0,15.0,https://www.caffeineinformer.com/caffeine-content/jiva-coffee
+Joker Mad Energy,206,16.0,12.9,https://www.caffeineinformer.com/caffeine-content/joker-energy-drink
+Jolt Cola,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/jolt-energy-drink
+K Cup Decaf,4,8.0,0.5,https://www.caffeineinformer.com/caffeine-content/keurig-decaf
+K Cup Tea,41,8.0,5.1,https://www.caffeineinformer.com/caffeine-content/k-cup-tea
+K-Cup Coffee,100,8.0,12.5,https://www.caffeineinformer.com/caffeine-content/k-cup-coffee
+Kaffn8 Liquified Caffeine,75,0.25,300.0,https://www.caffeineinformer.com/caffeine-content/kaffn8
+Karvana Kombucha Energy Shot,110,4.5,24.4,https://www.caffeineinformer.com/caffeine-content/karvana-kombucha-energy-shot
+Keurig Vue Pack,180,12.0,15.0,https://www.caffeineinformer.com/caffeine-content/keurig-vue-pack
+Kick Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/4-kick-energy-drink
+Kickapoo Soda: Joy Juice & Fruit Shine,40,12.0,3.3,https://www.caffeineinformer.com/caffeine-content/kickapoo
+Kill Cliff Ignite,150,12.0,12.5,https://www.caffeineinformer.com/caffeine-content/kill-cliff-ignite-energy-drink
+Kill Cliff Recovery Drink,25,12.0,2.1,https://www.caffeineinformer.com/caffeine-content/kill-cliff
+Killer Buzz,100,8.3,12.0,https://www.caffeineinformer.com/caffeine-content/killer-buzz
+Killer Coffee,430,8.46,50.8,https://www.caffeineinformer.com/caffeine-content/killer-coffee
+Kin Spritz,50,8.0,6.2,https://www.caffeineinformer.com/caffeine-content/kin-euphorics
+Kinley Soda,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/kinley-soda
+Kirkland Energy Shot,180,2.0,90.0,https://www.caffeineinformer.com/caffeine-content/kirkland-energy-shot
+KOE Kombucha,16,12.0,1.3,https://www.caffeineinformer.com/caffeine-content/koe
+Kombucha Extreme Energy Shot,150,2.0,75.0,https://www.caffeineinformer.com/caffeine-content/kombucha-extreme-energy-shot
+Kombucha Tea,24,8.0,3.0,https://www.caffeineinformer.com/caffeine-content/kombucha-tea
+Kona Gold Energy Drink,115,12.0,9.6,https://www.caffeineinformer.com/caffeine-content/kona-gold
+Kona Red,54,16.0,3.4,https://www.caffeineinformer.com/caffeine-content/kona-red
+KX Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/kx-energy-drink
+La Colombe Cold Brew ,180,9.0,20.0,https://www.caffeineinformer.com/caffeine-content/la-colombe-cold-brew-coffee
+La Colombe Draft Latte,120,9.0,13.3,https://www.caffeineinformer.com/caffeine-content/draft-latte
+La Croix Sparkling Water,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/la-croix
+Latte,154,16.0,9.6,https://www.caffeineinformer.com/caffeine-content/latte
+LevlUp Gaming Booster,250,16.91,14.8,https://www.caffeineinformer.com/caffeine-content/levlup
+Life Blast Xtreme Energy,100,8.0,12.5,https://www.caffeineinformer.com/caffeine-content/life-blast-xtreme-energy
+Lift Plus Energy Drink,80,8.45,9.5,https://www.caffeineinformer.com/caffeine-content/lift-plus-energy-drink
+Limelite Fusion Energy Drink,32,12.0,2.6,https://www.caffeineinformer.com/caffeine-content/limelite-fusion-energy-drink
+Limitless Sparkling Water,35,12.0,2.9,https://www.caffeineinformer.com/caffeine-content/limitless-caffeinated-sparkling-water
+Lipton Brisk Tea,8,12.0,0.7,https://www.caffeineinformer.com/caffeine-content/lipton-brisk-lemon
+Lipton Iced Tea,48,20.0,2.4,https://www.caffeineinformer.com/caffeine-content/lipton-iced-tea
+Lipton Natural Energy Tea,75,8.0,9.4,https://www.caffeineinformer.com/caffeine-content/lipton-natural-energy-tea
+Lipton Tea,55,8.0,6.9,https://www.caffeineinformer.com/caffeine-content/lipton-tea
+Liquid Caffeine,500,1.0,500.0,https://www.caffeineinformer.com/caffeine-content/5150-juice-caffeine-liquid
+Liquid Ice Energy Drink,80,8.3,9.6,https://www.caffeineinformer.com/caffeine-content/liquid-ice-energy-drink
+Long Black,154,6.0,25.7,https://www.caffeineinformer.com/caffeine-content/long-black-espresso
+Long Island Iced Tea,40,20.0,2.0,https://www.caffeineinformer.com/caffeine-content/long-island-iced-tea
+Lucozade,46,12.85,3.6,https://www.caffeineinformer.com/caffeine-content/lucozade
+Lyft Energy Stick,120,8.0,15.0,https://www.caffeineinformer.com/caffeine-content/pure-lyft
+M-150 Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/m-150-energy-drink
+Mad Croc Energy Drink,80,8.45,9.5,https://www.caffeineinformer.com/caffeine-content/mad-croc-energy-drink
+Mamma Chia Energy,90,10.0,9.0,https://www.caffeineinformer.com/caffeine-content/mamma-chia-energy
+Mana Energy Potion,160,1.35,118.5,https://www.caffeineinformer.com/caffeine-content/mana-energy-potion
+Mario Power Up Energy Drink,120,8.4,14.3,https://www.caffeineinformer.com/caffeine-content/mario-power-up-energy-drink
+Master Brew Kombucha,76,15.2,5.0,https://www.caffeineinformer.com/caffeine-content/kevita-kombucha
+Matador Green Energy Drink,80,16.0,5.0,https://www.caffeineinformer.com/caffeine-content/matador-yerba-mate
+Matcha Tea,70,8.0,8.8,https://www.caffeineinformer.com/caffeine-content/matcha-green-tea
+Mate Bros Energy Drink,99,8.0,12.4,https://www.caffeineinformer.com/caffeine-content/mate-bros
+MATI Energy Drink,110,12.0,9.2,https://www.caffeineinformer.com/caffeine-content/mati
+Maxwell House Coffee,112,8.0,14.0,https://www.caffeineinformer.com/caffeine-content/maxwell-house
+Maxwell House Max Boost Coffee,196,8.0,24.5,https://www.caffeineinformer.com/caffeine-content/max-boost-maxwell-house
+McDonalds (McCafe) Latte,142,16.0,8.9,https://www.caffeineinformer.com/caffeine-content/mcdonalds-latte
+McDonalds (McCafe) Mocha,167,16.0,10.4,https://www.caffeineinformer.com/caffeine-content/mcdonalds-mocha
+McDonalds Coffee,145,16.0,9.1,https://www.caffeineinformer.com/caffeine-content/mcdonalds-large-coffee
+McDonalds Iced Coffee,200,22.0,9.1,https://www.caffeineinformer.com/caffeine-content/mcdonalds-iced-coffee
+McDonalds Sweet Tea,100,32.0,3.1,https://www.caffeineinformer.com/caffeine-content/mcdonalds-sweet-iced-tea
+Mega Monster Energy Drink,240,24.0,10.0,https://www.caffeineinformer.com/caffeine-content/mega-monster-energy-drink
+Mello Yello,51,12.0,4.2,https://www.caffeineinformer.com/caffeine-content/mello-yello
+Mello Yello Zero,51,12.0,4.2,https://www.caffeineinformer.com/caffeine-content/diet-mello-yello
+Meltdown Ketone Drink,225,12.0,18.8,https://www.caffeineinformer.com/caffeine-content/vpx-meltdown-1-keto
+MiO Energy Water Enhancer,60,8.0,7.5,https://www.caffeineinformer.com/caffeine-content/mio-energy-water-enhancer
+Missile Energy Drink,80,8.43,9.5,https://www.caffeineinformer.com/caffeine-content/missile-energy-drink
+MonaVie,0,2.0,0.0,https://www.caffeineinformer.com/caffeine-content/monavie
+Monster Absolutely Zero,140,16.0,8.8,https://www.caffeineinformer.com/caffeine-content/monster-absolutely-zero-energy-drink
+Monster Assault,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/monster-assault-energy-drink
+Monster Cuba Lima,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/monster-cuba-lima
+Monster Dragon Tea,155,15.5,10.0,https://www.caffeineinformer.com/caffeine-content/monster-dragon-tea
+Monster DUB,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/monster-dub
+Monster Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/monster
+Monster Energy Mexico,92,16.0,5.8,https://www.caffeineinformer.com/caffeine-content/mexico-monster-energy
+Monster Export,76,8.46,9.0,https://www.caffeineinformer.com/caffeine-content/monster-import-uk
+Monster Hitman Sniper,240,3.0,80.0,https://www.caffeineinformer.com/caffeine-content/monster-hitman-sniper-shot
+Monster Hydro Energy Drink,125,16.0,7.8,https://www.caffeineinformer.com/caffeine-content/monster-hydro
+Monster Import,179,18.6,9.6,https://www.caffeineinformer.com/caffeine-content/monster-import
+Monster Khaos,154,16.0,9.6,https://www.caffeineinformer.com/caffeine-content/monster-khaos
+Monster Lo-Carb,140,16.0,8.8,https://www.caffeineinformer.com/caffeine-content/monster-lo-carb-uk
+Monster M3 Energy Drink,160,5.0,32.0,https://www.caffeineinformer.com/caffeine-content/monster-m3-energy-drink
+Monster Mango Loco,152,16.0,9.5,https://www.caffeineinformer.com/caffeine-content/monster-juiced-mango-loco
+Monster Maxx,200,12.0,16.7,https://www.caffeineinformer.com/caffeine-content/monster-extra-strength-energy-drink
+Monster Mixxd Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/monster-mixxd-energy-drink
+Monster Mutant Super Soda,115,20.0,5.8,https://www.caffeineinformer.com/caffeine-content/monster-mutant-soft-drink
+Monster Pink Energy Drink,140,16.0,8.8,https://www.caffeineinformer.com/caffeine-content/monster-pink-energy-drink
+Monster Pipeline Punch,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/monster-pipeline
+Monster Rehab Energy Drink,161,15.5,10.4,https://www.caffeineinformer.com/caffeine-content/monster-rehab-energy-drink
+Monster Rehab Green Tea,155,15.5,10.0,https://www.caffeineinformer.com/caffeine-content/monster-green-tea
+Monster Ripper,160,16.91,9.5,https://www.caffeineinformer.com/caffeine-content/monster-ripper
+Monster The Doctor Energy Drink,160,16.91,9.5,https://www.caffeineinformer.com/caffeine-content/monster-doctor
+Monster Ultra Citron,152,16.0,9.5,https://www.caffeineinformer.com/caffeine-content/monster-citron
+Monster Ultra Energy Drink,140,16.0,8.8,https://www.caffeineinformer.com/caffeine-content/monster-ultra-blue
+Monster Ultra Sunrise,150,16.0,9.4,https://www.caffeineinformer.com/caffeine-content/monster-sunrise
+Monster Unleaded Energy Drink,0,16.0,0.0,https://www.caffeineinformer.com/caffeine-content/monster-unleaded
+Moonshot Energy Drink,115,12.0,9.6,https://www.caffeineinformer.com/caffeine-content/moonshot-energy-drink
+Morning Spark Energy Drink,170,16.9,10.1,https://www.caffeineinformer.com/caffeine-content/morning-spark
+Morning Thunder Tea,40,8.0,5.0,https://www.caffeineinformer.com/caffeine-content/morning-thunder
+Mother Energy Drink,160,16.91,9.5,https://www.caffeineinformer.com/caffeine-content/mother-new
+Mother Inferno,160,16.91,9.5,https://www.caffeineinformer.com/caffeine-content/mother-inferno
+Mountain Dew,54,12.0,4.5,https://www.caffeineinformer.com/caffeine-content/mountain-dew
+Mountain Dew Baja Blast,72,16.0,4.5,https://www.caffeineinformer.com/caffeine-content/baja-blast
+Mountain Dew Black Label,83,16.0,5.2,https://www.caffeineinformer.com/caffeine-content/md-black-label
+Mountain Dew Code Red,54,12.0,4.5,https://www.caffeineinformer.com/caffeine-content/mountain-dew-code-red
+Mountain Dew Game Fuel,90,16.0,5.6,https://www.caffeineinformer.com/caffeine-content/mountain-dew-game-fuel
+Mountain Dew Kickstart,92,16.0,5.8,https://www.caffeineinformer.com/caffeine-content/mountain-dew-kick-start
+Mountain Dew Kickstart Hydrating Boost,68,12.0,5.7,https://www.caffeineinformer.com/caffeine-content/kickstart-hydrating-boost
+Mountain Dew Live Wire,54,12.0,4.5,https://www.caffeineinformer.com/caffeine-content/mountain-dew-live-wire
+Mountain Dew Spiked,72,16.0,4.5,https://www.caffeineinformer.com/caffeine-content/spiked-mountain-dew
+Mountain Dew Voltage,55,12.0,4.6,https://www.caffeineinformer.com/caffeine-content/mountain-dew-voltage
+Mountain Dew Zero,68,12.0,5.7,https://www.caffeineinformer.com/caffeine-content/mountain-dew-zero-sugar
+Moxie Energy Drink,80,16.0,5.0,https://www.caffeineinformer.com/caffeine-content/moxie-energy-drink
+Moxie Soda,24,12.0,2.0,https://www.caffeineinformer.com/caffeine-content/moxie-soda
+Mucho Mango Energy Drink,120,15.5,7.7,https://www.caffeineinformer.com/caffeine-content/mucho-mango-arizona
+Mug Root Beer,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/mug-root-beer
+Muscle Milk Coffee House,120,11.0,10.9,https://www.caffeineinformer.com/caffeine-content/muscle-milk-coffee
+Muscle Monster,156,15.0,10.4,https://www.caffeineinformer.com/caffeine-content/muscle-monster-energy-drink
+Mushroom Coffee,40,7.0,5.7,https://www.caffeineinformer.com/caffeine-content/mushroom-coffee
+Natural Bliss Cold Brew,70,8.0,8.8,https://www.caffeineinformer.com/caffeine-content/natural-bliss-cold-brew
+Nawgan Energy Drink,100,8.0,12.5,https://www.caffeineinformer.com/caffeine-content/nawgan-energy-drink
+Neon Energy Drink,100,8.46,11.8,https://www.caffeineinformer.com/caffeine-content/neon-energy-drink
+Nerd Energy Drink,120,12.0,10.0,https://www.caffeineinformer.com/caffeine-content/nerd-energy-drink
+Nescafe 3 in 1 Instant Coffee,50,6.0,8.3,https://www.caffeineinformer.com/caffeine-content/nestle-3-1
+Nescafe Dolce Gusto,106,8.0,13.2,https://www.caffeineinformer.com/caffeine-content/nescafe-dolce-gusto
+Nescafe Ice Java,100,0.85,117.6,https://www.caffeineinformer.com/caffeine-content/nescafe-ice-java
+Nescafe' Ricoffy,6,8.0,0.8,https://www.caffeineinformer.com/caffeine-content/nescafe-ricoffy
+Nespresso Coffee Capsules,60,1.35,44.4,https://www.caffeineinformer.com/caffeine-content/nespresso-coffee-capsules
+Nestea Iced Tea,13,20.0,0.7,https://www.caffeineinformer.com/caffeine-content/nestea-iced-tea
+Nestle Milo,4,8.0,0.4,https://www.caffeineinformer.com/caffeine-content/nestle-milo
+Neu Nootropic Shot,125,2.0,62.5,https://www.caffeineinformer.com/caffeine-content/neu-energy-shot
+Neuro Sonic,100,14.5,6.9,https://www.caffeineinformer.com/caffeine-content/neurosonic
+Neurofuel Energy Drink,128,12.0,10.6,https://www.caffeineinformer.com/caffeine-content/neuro-fuel-energy-drink
+No Fear Energy Drink,182,16.0,11.4,https://www.caffeineinformer.com/caffeine-content/no-fear-motherload-energy-drink
+NOCCO Energy Drink,180,11.17,16.1,https://www.caffeineinformer.com/caffeine-content/nocco
+Noocaf Smart Coffee,160,8.0,20.0,https://www.caffeineinformer.com/caffeine-content/noocaf
+NOS Active Sports Drink,221,22.0,10.0,https://www.caffeineinformer.com/caffeine-content/nos-active-sports-drink
+NOS Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/nos-energy-drink
+NOS Energy Drink (New Zealand Brand),160,19.21,8.3,https://www.caffeineinformer.com/caffeine-content/nos-energy-drink-new-zealand
+NOS Loaded Cherry,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/nos-loaded-cherry-energy-drink
+NuTraMint Smart Serum,200,2.0,100.0,https://www.caffeineinformer.com/caffeine-content/nutramint
+Nuun Energy Drink,40,16.0,2.5,https://www.caffeineinformer.com/caffeine-content/nuun-energy-tabs
+Ocean Spray Brew,40,8.0,5.0,https://www.caffeineinformer.com/caffeine-content/ocean-spray-brew
+Octane Energy Drink,225,12.0,18.8,https://www.caffeineinformer.com/caffeine-content/octane-energy-drink
+Oi Ocha Green Tea,60,16.9,3.6,https://www.caffeineinformer.com/caffeine-content/oi-ocha-green-tea
+Oikos Pro Fuel,100,10.0,10.0,https://www.caffeineinformer.com/caffeine-content/oikos-caffeinated-yogurt-drink
+OK Energy Drink,160,16.9,9.5,https://www.caffeineinformer.com/caffeine-content/ok-energy-drink
+Ol' Glory Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/ol-glory-energy-drink
+OnGo Energy Shot,177,2.0,88.5,https://www.caffeineinformer.com/caffeine-content/ongo-energy
+Oprah Chai Tea Latte,50,16.0,3.1,https://www.caffeineinformer.com/caffeine-content/oprah-chai-tea
+Orange Crush,0,20.0,0.0,https://www.caffeineinformer.com/caffeine-content/orange-crush
+Oregon Chai Tea,33,4.0,8.1,https://www.caffeineinformer.com/caffeine-content/oregon-chai
+Outlaw Energy Drink,250,16.0,15.6,https://www.caffeineinformer.com/caffeine-content/outlaw
+Ovaltine,0,8.0,0.0,https://www.caffeineinformer.com/caffeine-content/ovaltine
+Pacific Chai,41,12.0,3.4,https://www.caffeineinformer.com/caffeine-content/pacific-chai
+Panera Bread Coffee,189,16.0,11.8,https://www.caffeineinformer.com/caffeine-content/panera-bread-coffee
+PC Cola,12,12.0,1.0,https://www.caffeineinformer.com/caffeine-content/presidents-choice-cola
+PC Cola Diet,13,12.0,1.1,https://www.caffeineinformer.com/caffeine-content/diet-presidents-choice-cola
+Peace Tea,23,23.0,1.0,https://www.caffeineinformer.com/caffeine-content/peace-tea
+Peet's Brewed Coffee,267,16.0,16.7,https://www.caffeineinformer.com/caffeine-content/peets-brewed-coffee
+Peet's Caffe Americano,140,16.0,8.8,https://www.caffeineinformer.com/caffeine-content/peets-americano
+Peet's Caffe Latte,140,16.0,8.8,https://www.caffeineinformer.com/caffeine-content/peets-latte
+Peet's Caffe Mocha,165,16.0,10.3,https://www.caffeineinformer.com/caffeine-content/peets-mocha
+Peet's Cappuccino,140,16.0,8.8,https://www.caffeineinformer.com/caffeine-content/peets-cappuccino
+Peet's Coffee Espresso,70,1.5,46.7,https://www.caffeineinformer.com/caffeine-content/peets
+Peet's Decaf Espresso,10,1.5,6.7,https://www.caffeineinformer.com/caffeine-content/peets-decaf
+Peet's Iced Coffee,150,16.0,9.4,https://www.caffeineinformer.com/caffeine-content/peets-iced-coffee
+Peet's Iced Latte,140,16.0,8.8,https://www.caffeineinformer.com/caffeine-content/peets-iced-latte
+Peet's Iced Mocha,165,16.0,10.3,https://www.caffeineinformer.com/caffeine-content/peets-iced-mocha
+Pep Talk Sparkling Water,55,12.0,4.6,https://www.caffeineinformer.com/caffeine-content/pep-talk-caffeinated-soda-water
+PepPod Energy Drink,71,8.0,8.9,https://www.caffeineinformer.com/caffeine-content/peppod-effervescent-energy-drink
+Pepsi 1893 Cola ,34,12.0,2.8,https://www.caffeineinformer.com/caffeine-content/1893-cola-pepsi
+Pepsi Cafe,75,12.0,6.2,https://www.caffeineinformer.com/caffeine-content/pepsi-cafe
+Pepsi Caffeine Free,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/pepsi-free
+Pepsi Cola,38,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/pepsi-cola
+Pepsi Diet Lemon,38,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/pepsi-diet-lemon
+Pepsi Diet Lime,38,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/pepsi-diet-lime
+Pepsi Diet Vanilla,38,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/pepsi-diet-vanilla
+Pepsi Max,43,11.16,3.8,https://www.caffeineinformer.com/caffeine-content/uk-pepsi-max
+Pepsi Next,32,12.0,2.7,https://www.caffeineinformer.com/caffeine-content/pepsi-next
+Pepsi One,97,20.0,4.8,https://www.caffeineinformer.com/caffeine-content/pepsi-one
+Pepsi Slurpee,14,8.0,1.8,https://www.caffeineinformer.com/caffeine-content/7-eleven
+Pepsi Throwback,38,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/pepsi-throwback
+Pepsi True,32,10.0,3.2,https://www.caffeineinformer.com/caffeine-content/pepsi-true
+Pepsi Zero Sugar ,69,12.0,5.8,https://www.caffeineinformer.com/caffeine-content/pepsi-max
+Performance Caffeine ,180,2.0,90.0,https://www.caffeineinformer.com/caffeine-content/performance-energy-shot
+PerformElite Pre-Workout ,225,8.0,28.1,https://www.caffeineinformer.com/caffeine-content/endurelite-performelite
+Perrier Sparkling Water,0,11.15,0.0,https://www.caffeineinformer.com/caffeine-content/perrier
+PG Tips Black Tea,50,6.78,7.4,https://www.caffeineinformer.com/caffeine-content/pg-tips-tea
+Phocus Sparkling Water,75,11.5,6.5,https://www.caffeineinformer.com/caffeine-content/phocus-caffeinated-sparkling-water
+Phoenix Energy Shot,280,2.0,140.0,https://www.caffeineinformer.com/caffeine-content/phoenix-energy-shot
+Pibb Xtra,40,12.0,3.3,https://www.caffeineinformer.com/caffeine-content/pibb-xtra
+Pibb Zero,40,12.0,3.3,https://www.caffeineinformer.com/caffeine-content/pibb-zero
+Polar Frost Plus Energy,67,17.0,3.9,https://www.caffeineinformer.com/caffeine-content/polar-frost
+Polar Seltzer Water,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/polar-seltzer
+Positive Energy Juice,150,12.0,12.5,https://www.caffeineinformer.com/caffeine-content/positive-energy-juice
+Power Edge Energy Drink Mix,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/power-edge-energy-drink
+Power Horse Energy Drink,80,8.45,9.5,https://www.caffeineinformer.com/caffeine-content/power-horse-energy-drink
+Premium Cola,83,11.16,7.4,https://www.caffeineinformer.com/caffeine-content/premium-cola
+Private Selection Canned Espresso,145,15.0,9.7,https://www.caffeineinformer.com/caffeine-content/private-selection-espresso-drinks
+Propel Zero Energy Mix,0,16.0,0.0,https://www.caffeineinformer.com/caffeine-content/propel-zero
+Protein2O + Energy,125,16.91,7.4,https://www.caffeineinformer.com/caffeine-content/protein2o-energy
+Pulse,21,10.15,2.1,https://www.caffeineinformer.com/caffeine-content/pulse-energy-drink
+Pure Boost Energy Drink,100,16.0,6.2,https://www.caffeineinformer.com/caffeine-content/pure-boost
+Pure Cofain 699,175,8.46,20.7,https://www.caffeineinformer.com/caffeine-content/pure-coffein
+Pure Kick Energy Drink,80,16.9,4.7,https://www.caffeineinformer.com/caffeine-content/pure-kick-energy-drink
+Pure Leaf Iced Tea,69,18.5,3.7,https://www.caffeineinformer.com/caffeine-content/pure-leaf-iced-tea
+Purity Coffee,163,8.0,20.4,https://www.caffeineinformer.com/caffeine-content/purity-coffee
+Quad Energy Drink,140,16.0,8.8,https://www.caffeineinformer.com/caffeine-content/quad-energy-drink
+Quake Energy Berry Blast Slurpee,92,16.0,5.8,https://www.caffeineinformer.com/caffeine-content/quake-energy-slurpee
+Quake Energy Drink,250,16.0,15.6,https://www.caffeineinformer.com/caffeine-content/quake-7-eleven
+Rage Liquid Energy,200,16.0,12.5,https://www.caffeineinformer.com/caffeine-content/rage-energy-drink
+Raze Energy Drink,300,16.0,18.8,https://www.caffeineinformer.com/caffeine-content/raze-energy-drink
+RC Cola,43,12.0,3.6,https://www.caffeineinformer.com/caffeine-content/royal-crown-cola
+"RC Cola, Cherry",43,12.0,3.6,https://www.caffeineinformer.com/caffeine-content/cherry-rc-cola
+Real Beanz Iced Coffee,66,9.5,6.9,https://www.caffeineinformer.com/caffeine-content/real-beanz-iced-coffee
+Red Bull,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/red-bull
+Red Bull Blue Edition,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/rb-blue-edition
+Red Bull Cherry Edition,114,12.0,9.5,https://www.caffeineinformer.com/caffeine-content/rb-cherry-edition
+Red Bull Cola,32,8.4,3.8,https://www.caffeineinformer.com/caffeine-content/red-bull-cola
+Red Bull Green Edition,114,12.0,9.5,https://www.caffeineinformer.com/caffeine-content/red-bull-green
+Red Bull Lime Edition,114,12.0,9.5,https://www.caffeineinformer.com/caffeine-content/red-bull-lime
+Red Bull Orange Edition,114,12.0,9.5,https://www.caffeineinformer.com/caffeine-content/rb-orange-edition
+Red Bull Purple Edition,114,12.0,9.5,https://www.caffeineinformer.com/caffeine-content/red-bull-purple
+Red Bull Red Edition,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/rb-red-edition
+Red Bull Silver Edition,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/rb-silver-edition
+Red Bull Sugar Free,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/sugar-free-red-bull
+Red Bull Total Zero,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/red-bull-total-zero
+Red Bull Yellow Edition,114,12.0,9.5,https://www.caffeineinformer.com/caffeine-content/rb-yellow-edition
+Red Devil Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/red-devil-energy-drink
+Red Eye Energy Drink,106,11.1,9.5,https://www.caffeineinformer.com/caffeine-content/red-eye-energy-drink
+Red Flash,37,12.0,3.1,https://www.caffeineinformer.com/caffeine-content/red-flash-soda
+Red Heel Drink,75,8.5,8.8,https://www.caffeineinformer.com/caffeine-content/red-heel-drink
+Red Power Elixir,180,12.0,15.0,https://www.caffeineinformer.com/caffeine-content/red-elixir
+Red Rock Cola,26,12.0,2.2,https://www.caffeineinformer.com/caffeine-content/red-rock-cola
+Red Rooster,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/red-rooster-energy-drink
+Red Rose Energy Tea,60,8.0,7.5,https://www.caffeineinformer.com/caffeine-content/red-rose-energy-tea
+Red Thunder Energy Drink,75,8.46,8.9,https://www.caffeineinformer.com/caffeine-content/aldi-red-thunder
+Red Thunder Energy Shot,138,2.0,69.0,https://www.caffeineinformer.com/caffeine-content/red-thunder-shot-aldi
+Red Thunder Extra Strength,230,2.0,115.0,https://www.caffeineinformer.com/caffeine-content/red-thunder-shot-extra
+Redline Energy Drink,250,8.0,31.2,https://www.caffeineinformer.com/caffeine-content/redline-rtd
+Redline Power Rush,350,2.5,140.0,https://www.caffeineinformer.com/caffeine-content/redline-power-rush
+Redline Princess,250,8.0,31.2,https://www.caffeineinformer.com/caffeine-content/redline-princess
+Redline Xtreme Energy Drink,316,8.0,39.5,https://www.caffeineinformer.com/caffeine-content/redline-xtreme-drink
+Redline Xtreme Shot,300,3.0,100.0,https://www.caffeineinformer.com/caffeine-content/redline-xtreme-energy-shot
+Reed's Ginger Energize Shot,100,2.0,50.0,https://www.caffeineinformer.com/caffeine-content/reeds-ginger-energy-shot
+Reign Total Body Fuel,300,16.0,18.8,https://www.caffeineinformer.com/caffeine-content/reign-energy-drink
+Reize Energy Drink,50,8.46,5.9,https://www.caffeineinformer.com/caffeine-content/reize
+Relentless Energy Drink,160,16.9,9.5,https://www.caffeineinformer.com/caffeine-content/relentless
+Revv Coffee Pods,127,8.0,15.9,https://www.caffeineinformer.com/caffeine-content/revv-coffee
+Rhino Rush Energy Shot,250,2.0,125.0,https://www.caffeineinformer.com/caffeine-content/rhinorush-energy-shot
+Rip It Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rip-it-energy-drink
+Rip It Energy Shot,100,2.0,50.0,https://www.caffeineinformer.com/caffeine-content/rip-it-energy-shot
+Ripped Force Energy Drink,200,18.0,11.1,https://www.caffeineinformer.com/caffeine-content/ripped-force-energy-drink
+Ritz Cola,10,12.0,0.9,https://www.caffeineinformer.com/caffeine-content/ritz-cola
+Roaring Lion Energy Drink,161,16.9,9.5,https://www.caffeineinformer.com/caffeine-content/roaring-lion-energy-drink
+Robusta Coffee,265,8.0,33.1,https://www.caffeineinformer.com/caffeine-content/robusta-coffee
+Rockstar (NZ / Aus),151,16.0,9.4,https://www.caffeineinformer.com/caffeine-content/rockstar-original
+Rockstar Blackout Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar-blackout
+Rockstar Boom!,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar-boom-energy-drink
+Rockstar Burner Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar-burner
+Rockstar Energy Cola,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar-energy-cola
+Rockstar Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar
+Rockstar Energy Shot,200,2.5,80.0,https://www.caffeineinformer.com/caffeine-content/rockstar-energy-shot
+Rockstar Energy Water,180,20.0,9.0,https://www.caffeineinformer.com/caffeine-content/rockstar-energy-water
+Rockstar First Start Energy Drink,160,16.97,9.4,https://www.caffeineinformer.com/caffeine-content/rockstar-first-start
+Rockstar Hardcore Energy Drink,240,16.0,15.0,https://www.caffeineinformer.com/caffeine-content/rockstar-hardcore
+Rockstar Horchata Energy Drink,225,15.0,15.0,https://www.caffeineinformer.com/caffeine-content/rockstar-horchata
+Rockstar Iced Energy Drink,240,16.0,15.0,https://www.caffeineinformer.com/caffeine-content/rockstar-iced-energy-drink
+Rockstar Juiced,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar-juiced
+Rockstar Lime Freeze,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar-lime-freeze
+Rockstar Organic Energy Drink,160,15.0,10.7,https://www.caffeineinformer.com/caffeine-content/rockstar-organic
+Rockstar Perfect Berry,240,16.0,15.0,https://www.caffeineinformer.com/caffeine-content/rockstar-pink-energy-drink
+Rockstar Pina Colada,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar-pina-colada
+Rockstar Punched,240,16.0,15.0,https://www.caffeineinformer.com/caffeine-content/rockstar-citrus-punched
+Rockstar Punched (non-USA),160,16.91,9.5,https://www.caffeineinformer.com/caffeine-content/rockstar-punched-energy-guava
+Rockstar Punched Guava,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar-punched-guava
+Rockstar Pure Zero Energy Drink,240,16.0,15.0,https://www.caffeineinformer.com/caffeine-content/rockstar-pure-zero
+Rockstar Recovery,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar-recovery-energy-hydration
+Rockstar Revolt Energy Drink,240,16.0,15.0,https://www.caffeineinformer.com/caffeine-content/rockstar-revolt
+Rockstar Roasted,220,15.0,14.7,https://www.caffeineinformer.com/caffeine-content/rockstar-roasted
+Rockstar Sparkling Energy,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar-sparkling-energy
+Rockstar Sport Energy Shake,160,15.0,10.7,https://www.caffeineinformer.com/caffeine-content/rockstar-energy-shake
+Rockstar Super Sours,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/rockstar-super-sours-energy-drink
+Rockstar Thermo ,300,0.0,0.0,https://www.caffeineinformer.com/caffeine-content/rockstar-thermo-energy-drink
+Rockstar XDurance Energy Drink,300,16.0,18.8,https://www.caffeineinformer.com/caffeine-content/rockstar-xdurance-energy-drink
+Rockstar Zero Carb,240,16.0,15.0,https://www.caffeineinformer.com/caffeine-content/rockstar-zero-carb
+Rogue Energy Drink,175,16.0,10.9,https://www.caffeineinformer.com/caffeine-content/rogue-energy-drink-mix
+RootJack Caffeinated Pirate Root Beer,120,12.0,10.0,https://www.caffeineinformer.com/caffeine-content/rootjack-caffeinated-pirate-root-beer
+Ruby Red Squirt,39,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/ruby-red-squirt
+Rude Energy Drink,75,8.0,9.4,https://www.caffeineinformer.com/caffeine-content/rude-energy-drink
+Runa Clean Energy Drink,120,8.46,14.2,https://www.caffeineinformer.com/caffeine-content/runa-clean-energy-drink
+Rush! Energy Drink,80,8.3,9.6,https://www.caffeineinformer.com/caffeine-content/rush-energy
+Sambazon Amazon Energy Drink,120,12.0,10.0,https://www.caffeineinformer.com/caffeine-content/amazon-energy-drink
+Sarsaparilla,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/sarsaparilla
+Scheckters Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/scheckters-organic-energy-energy
+Screamin Energy Max Hit,185,0.61,303.3,https://www.caffeineinformer.com/caffeine-content/screamin-energy-shot
+Seattle's Best Brewed Coffee,260,12.0,21.7,https://www.caffeineinformer.com/caffeine-content/seattles-best-coffee
+Sencha Green Tea Shot,40,6.4,6.2,https://www.caffeineinformer.com/caffeine-content/sencha-shot
+Shark Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/shark-energy-drink
+Shasta Cola,43,12.0,3.6,https://www.caffeineinformer.com/caffeine-content/shasta-cola
+Ski Soda,69,12.0,5.8,https://www.caffeineinformer.com/caffeine-content/ski-soda
+Skinny Cow Iced Coffee,70,8.0,8.8,https://www.caffeineinformer.com/caffeine-content/skinny-cow-coffee
+Slammers Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/slammers-energy-drink
+Slimfast Advance Energy,100,11.0,9.1,https://www.caffeineinformer.com/caffeine-content/slimfast-energy-shake
+SlimFast Cappuccino Delight Shake,40,10.0,4.0,https://www.caffeineinformer.com/caffeine-content/slim-fast-cappuccino
+Slurpee,40,16.0,2.5,https://www.caffeineinformer.com/caffeine-content/slurpee-frozen-drinks
+Snapple Tea,37,16.0,2.3,https://www.caffeineinformer.com/caffeine-content/snapple-tea
+SoBe Energy Citrus,77,20.0,3.9,https://www.caffeineinformer.com/caffeine-content/sobe-energy-citrus
+SoBe Green Tea,10,20.0,0.5,https://www.caffeineinformer.com/caffeine-content/sobe-green-tea
+Soda Stream,80,8.0,10.0,https://www.caffeineinformer.com/caffeine-content/soda-stream
+Source Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/source-energy-drink
+Southern Sweet Tea,41,16.0,2.6,https://www.caffeineinformer.com/caffeine-content/sweet-tea
+Soylent Stacked,100,11.16,9.0,https://www.caffeineinformer.com/caffeine-content/soylent
+Spark Energy Drink,120,8.0,15.0,https://www.caffeineinformer.com/caffeine-content/advocare-spark
+Sparkling Ice +Caffeine,75,16.0,4.7,https://www.caffeineinformer.com/caffeine-content/sparkling-ice-caffeine
+Speed Energy Drink,186,16.0,11.6,https://www.caffeineinformer.com/caffeine-content/speed-fuel-energy-drink-robby-gordon
+Speed Stack Energy Drink,250,18.0,13.9,https://www.caffeineinformer.com/caffeine-content/speed-stack-energy-drink
+Spider Energy Drink,240,16.0,15.0,https://www.caffeineinformer.com/caffeine-content/spider-energy-drink
+Spike Energy Double Shot,350,4.26,82.2,https://www.caffeineinformer.com/caffeine-content/spike-double-shot
+Spike Energy Drink,350,16.0,21.9,https://www.caffeineinformer.com/caffeine-content/spike-shotgun
+SPIKE Shooter,300,8.4,35.7,https://www.caffeineinformer.com/caffeine-content/spike-shooter
+Sprecher Cherry Cola,0,16.0,0.0,https://www.caffeineinformer.com/caffeine-content/sprecher-cherry-cola
+Sprite,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/sprite
+Squirt Soda,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/squirt
+Stacker Extreme Energy Shot,205,2.0,102.5,https://www.caffeineinformer.com/caffeine-content/stacker-extreme-shot
+Starbuck's Triple Shot Energy,225,15.0,15.0,https://www.caffeineinformer.com/caffeine-content/starbucks-triple-shot
+Starbucks Bottled Cold Brew,215,11.0,19.5,https://www.caffeineinformer.com/caffeine-content/starbucks-bottled-cold-brew
+Starbucks Bottled Frappuccino,130,13.7,9.5,https://www.caffeineinformer.com/caffeine-content/starbucks-bottled-frappucino
+Starbucks Bottled Iced Coffee,110,11.0,10.0,https://www.caffeineinformer.com/caffeine-content/starbucks-bottled-iced-coffee
+Starbucks Canned Nitro Cold Brew,235,11.0,21.4,https://www.caffeineinformer.com/caffeine-content/starbucks-canned-nitro
+Starbucks Classics Caffe Mocha,510,48.0,10.6,https://www.caffeineinformer.com/caffeine-content/starbucks-discoveries-iced-coffee
+Starbucks Cold Brew Coffee,205,16.0,12.8,https://www.caffeineinformer.com/caffeine-content/starbucks-cold-brew
+Starbucks Cordusio Mocha,155,8.0,19.4,https://www.caffeineinformer.com/caffeine-content/starbucks-cordusio
+Starbucks Decaf Coffee,25,16.0,1.6,https://www.caffeineinformer.com/caffeine-content/starbucks-tall-decaf-coffee
+Starbucks Doubleshot,110,6.5,16.9,https://www.caffeineinformer.com/caffeine-content/starbucks-double-shot
+Starbucks Doubleshot Energy + Coffee,145,15.0,9.7,https://www.caffeineinformer.com/caffeine-content/starbucks-double
+Starbucks Grande Caffe Americano,225,16.0,14.1,https://www.caffeineinformer.com/caffeine-content/starbucks-grande-caffe-americano
+Starbucks Grande Caffe Latte,150,16.0,9.4,https://www.caffeineinformer.com/caffeine-content/starbucks-grande-caffe-latte
+Starbucks Grande Caffe Mocha,175,16.0,10.9,https://www.caffeineinformer.com/caffeine-content/starbucks-grande-caffe-mocha
+Starbucks Grande Cappuccino,150,16.0,9.4,https://www.caffeineinformer.com/caffeine-content/starbucks-grande-cappuccino
+Starbucks Grande Coffee,330,16.0,20.6,https://www.caffeineinformer.com/caffeine-content/starbucks-grande-coffee
+Starbucks Iced Espresso,225,16.0,14.1,https://www.caffeineinformer.com/caffeine-content/starbucks-iced-espresso
+Starbucks Latte Macchiato,225,16.0,14.1,https://www.caffeineinformer.com/caffeine-content/starbucks-grande-latte-macchiato
+Starbucks Nitro Cold Brew Coffee,280,16.0,17.5,https://www.caffeineinformer.com/caffeine-content/starbucks-nitro-cold-brew
+Starbucks Pink Drink,45,16.0,2.8,https://www.caffeineinformer.com/caffeine-content/pink-drink-starbucks
+Starbucks Plus Coffee Pods,260,8.0,32.5,https://www.caffeineinformer.com/caffeine-content/starbucks-plus
+Starbucks Protein and Coffee,110,8.0,13.8,https://www.caffeineinformer.com/caffeine-content/doubleshot-protein-coffee
+Starbucks Protein Cold Brew Coffee,180,16.0,11.2,https://www.caffeineinformer.com/caffeine-content/starbucks-protein-cold-brew
+Starbucks Pumpkin Cream Cold Brew,185,16.0,11.6,https://www.caffeineinformer.com/caffeine-content/starbucks-pumpkin-cream
+Starbucks Refreshers,50,16.0,3.1,https://www.caffeineinformer.com/caffeine-content/starbucks-refreshers
+Starbucks Refreshers Canned,50,12.0,4.2,https://www.caffeineinformer.com/caffeine-content/starbucks-refreshers-canned
+Starbucks Verismo Coffee Pods,60,8.0,7.5,https://www.caffeineinformer.com/caffeine-content/starbucks-verismo-pods
+Starbucks Via Ready Brew,135,8.0,16.9,https://www.caffeineinformer.com/caffeine-content/starbucks-via-instant-coffee
+Steaz Organic Energy Drink,100,12.0,8.3,https://www.caffeineinformer.com/caffeine-content/steaz-organic-energy-drink-berry
+Steep 18 Cold Brew,90,8.0,11.2,https://www.caffeineinformer.com/caffeine-content/steep-18
+Stewie's Mind Erase Elixir,50,8.4,6.0,https://www.caffeineinformer.com/caffeine-content/stewies-mind-erase-elixir
+Stipe Miocic Extra Strength Coffee,500,12.0,41.7,https://www.caffeineinformer.com/caffeine-content/fire-department-coffee
+Stok Black Coffee Shots,40,0.44,90.9,https://www.caffeineinformer.com/caffeine-content/stok-coffee-shots
+Stok Cold Brew,145,13.7,10.6,https://www.caffeineinformer.com/caffeine-content/stok-cold-brew-coffee
+Strike Force Energy Drink,160,16.91,9.5,https://www.caffeineinformer.com/caffeine-content/strike-force
+Stumptown Cold Brew + Milk,319,16.0,19.9,https://www.caffeineinformer.com/caffeine-content/stumptown-cold-brew-milk
+Stumptown Cold Brew Chocolate + Milk,340,16.0,21.2,https://www.caffeineinformer.com/caffeine-content/stumptown-cold-brew-chocolate
+Stumptown Cold Brew Coffee,279,10.5,26.6,https://www.caffeineinformer.com/caffeine-content/stumptown-coffee-cold-brew
+Stumptown Nitro Cold Brew,330,11.0,30.0,https://www.caffeineinformer.com/caffeine-content/stumptown-nitro
+Sudden Instant Cofffee,95,12.0,7.9,https://www.caffeineinformer.com/caffeine-content/sudden-coffee
+Sun Drop Soda,64,12.0,5.3,https://www.caffeineinformer.com/caffeine-content/sundrop
+Sunkist Orange Soda,19,12.0,1.6,https://www.caffeineinformer.com/caffeine-content/sunkist-orange-soda
+Sunkist Sparkling Lemonade,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/sunkist-lemonade
+Sunkist Ten,68,20.0,3.4,https://www.caffeineinformer.com/caffeine-content/sunkist-ten-soda
+SunnyD X Energy Drink,0,16.0,0.0,https://www.caffeineinformer.com/caffeine-content/sunnyd-energy-drink
+Sunup Green Coffee,285,15.0,19.0,https://www.caffeineinformer.com/caffeine-content/sunup
+Surge Citrus Soda,69,16.0,4.3,https://www.caffeineinformer.com/caffeine-content/surge-soda
+Svelte Cappuccino Protein Shake,65,11.0,5.9,https://www.caffeineinformer.com/caffeine-content/svelte-cappuccino
+t-licious Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/t-licious
+T-Virus Antidote,120,8.45,14.2,https://www.caffeineinformer.com/caffeine-content/t-virus-energy-drink
+TAB Diet Cola,45,12.0,3.8,https://www.caffeineinformer.com/caffeine-content/tab
+Taft Coffee,1182,12.0,98.5,https://www.caffeineinformer.com/caffeine-content/taft-coffee
+Taiwanese Milk Tea,130,13.526,9.6,https://www.caffeineinformer.com/caffeine-content/taiwanese-milk-tea
+Talon Energy Drink,174,16.0,10.9,https://www.caffeineinformer.com/caffeine-content/talon-energy-drink
+Taster's Choice Instant Coffee,98,8.0,12.2,https://www.caffeineinformer.com/caffeine-content/tasters-choice
+Taurus Energy Drink,50,8.46,5.9,https://www.caffeineinformer.com/caffeine-content/taurus-energy-drink
+Tazo Chai,47,8.0,5.9,https://www.caffeineinformer.com/caffeine-content/tazo-chai
+Tea (Black),42,8.0,5.2,https://www.caffeineinformer.com/caffeine-content/tea-brewed
+Tea (Decaf),5,8.0,0.6,https://www.caffeineinformer.com/caffeine-content/decaffeinated-tea
+Tea (Green),25,8.0,3.1,https://www.caffeineinformer.com/caffeine-content/green-tea
+Tea (Herbal),0,8.0,0.0,https://www.caffeineinformer.com/caffeine-content/herbal-tea
+Tea (Iced),47,8.0,5.9,https://www.caffeineinformer.com/caffeine-content/tea-iced
+Tea (Instant),40,8.0,5.0,https://www.caffeineinformer.com/caffeine-content/tea-instant
+Tea (Jasmine),25,8.0,3.1,https://www.caffeineinformer.com/caffeine-content/jasmine-tea
+Tea (Oolong),37,8.0,4.6,https://www.caffeineinformer.com/caffeine-content/oolong-tea
+Tea (White),28,8.0,3.5,https://www.caffeineinformer.com/caffeine-content/white-tea
+Teas' Tea Oolong,55,16.9,3.3,https://www.caffeineinformer.com/caffeine-content/teas-tea-oolong
+Teavana Tea,41,8.0,5.1,https://www.caffeineinformer.com/caffeine-content/teavana
+TEHO Energy Drink,160,16.9,9.5,https://www.caffeineinformer.com/caffeine-content/teho-energy-drink
+Tejava Iced Tea,50,12.0,4.2,https://www.caffeineinformer.com/caffeine-content/tejava-iced-tea
+TENZING Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/tenzing
+Tiger Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/tiger-energy-drink
+Tim Hortons Large Brewed Coffee,200,20.0,10.0,https://www.caffeineinformer.com/caffeine-content/tim-hortons-large-coffee
+Tim Hortons Small English Toffee Coffee,60,10.0,6.0,https://www.caffeineinformer.com/caffeine-content/tim-hortons-small-english-toffee-coffee
+Tim Hortons Small French Vanilla Coffee,60,10.0,6.0,https://www.caffeineinformer.com/caffeine-content/tim-hortons-small-french-vanilla-coffee
+TK Diet Cola,38,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/tk-cola
+Tonic Water,0,11.9,0.0,https://www.caffeineinformer.com/caffeine-content/tonic-water
+Tropicana Twister Soda,0,20.0,0.0,https://www.caffeineinformer.com/caffeine-content/tropicana-twister
+Tru Blood Energy Drink,50,14.0,3.6,https://www.caffeineinformer.com/caffeine-content/tru-blood-energy-drink
+TruBrain Morning,80,1.0,80.0,https://www.caffeineinformer.com/caffeine-content/tru-brain
+TruEnergy Sport Shot,100,1.69,59.2,https://www.caffeineinformer.com/caffeine-content/truenergy
+TrueStart Performance Coffee,95,5.1,18.6,https://www.caffeineinformer.com/caffeine-content/truestart-coffee
+Turkey Hill Iced Tea,110,16.2,6.8,https://www.caffeineinformer.com/caffeine-content/turkey-hill-iced-tea
+Turkish Coffee,50,2.0,25.0,https://www.caffeineinformer.com/caffeine-content/turkish-coffee
+Tweaker Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/tweaker-energy-drink
+Twig Tea (Kukicha),25,8.0,3.1,https://www.caffeineinformer.com/caffeine-content/twig-tea-kukicha
+Ubermonster Energy Brew,187,18.6,10.1,https://www.caffeineinformer.com/caffeine-content/ubermonster
+UPTIME Energy Drink,142,12.0,11.8,https://www.caffeineinformer.com/caffeine-content/up-time-energy-drink
+USANA Rev3 Energy Drink,80,12.0,6.7,https://www.caffeineinformer.com/caffeine-content/rev3-energy-drink
+V Double Espresso Iced Coffee,147,16.07,9.1,https://www.caffeineinformer.com/caffeine-content/v-double-espresso
+V Energy Drink,109,11.84,9.2,https://www.caffeineinformer.com/caffeine-content/v
+V Pocket Rocket Energy Shot,200,2.03,98.5,https://www.caffeineinformer.com/caffeine-content/v-pocket-rocket-energy-shot
+V8 Fusion Energy Drink,80,8.0,10.0,https://www.caffeineinformer.com/caffeine-content/v8-fusion-energy-drink
+Vanilla Coke,34,12.0,2.8,https://www.caffeineinformer.com/caffeine-content/vanilla-coke
+Vanilla Coke Zero,34,12.0,2.8,https://www.caffeineinformer.com/caffeine-content/coke-zero-vanilla
+Venom Black Mamba,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/venom-black-mamba
+Venom Death Adder,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/venom-death-adder
+Venom Killer Taipan,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/venom-taipan
+Venom Mojave Rattler,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/venom-mojave
+Vernors Ginger Ale,0,12.0,0.0,https://www.caffeineinformer.com/caffeine-content/vernors-ginger-ale
+Verve! Energy Drink,80,8.3,9.6,https://www.caffeineinformer.com/caffeine-content/verve-energy-drink
+Very Strong Coffee,1350,12.0,112.5,https://www.caffeineinformer.com/caffeine-content/very-strong-coffee
+Virtue Energy Water,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/virtue-energy
+Viso Energy Drink,300,17.0,17.6,https://www.caffeineinformer.com/caffeine-content/viso-energy-drink
+Vital 4U Liquid Energy,155,0.5,310.0,https://www.caffeineinformer.com/caffeine-content/vital-4u-energy-shot
+VitaminWater Energy ,50,20.0,2.5,https://www.caffeineinformer.com/caffeine-content/glaceau-vitaminwater
+VitaRain Energy Enhanced Water,42,20.0,2.1,https://www.caffeineinformer.com/caffeine-content/vitarain-energy-enhanced-water
+Vixen Energy Drink,174,16.0,10.9,https://www.caffeineinformer.com/caffeine-content/vixen-energy-drink
+Voila Instant Coffee,100,8.0,12.5,https://www.caffeineinformer.com/caffeine-content/voila
+WAKA Decaf Instant Coffee,4,8.0,0.5,https://www.caffeineinformer.com/caffeine-content/waka-decaf
+Waka Indian Instant Coffee,70,8.0,8.8,https://www.caffeineinformer.com/caffeine-content/waka-indian-coffee
+Waka Instant Coffee,70,8.0,8.8,https://www.caffeineinformer.com/caffeine-content/waka-coffee
+WAKA Instant Tea,30,8.0,3.8,https://www.caffeineinformer.com/caffeine-content/waka-tea
+Warrior Energy Drink,160,16.0,10.0,https://www.caffeineinformer.com/caffeine-content/warrior-energy-drink
+Water Joe,70,20.0,3.5,https://www.caffeineinformer.com/caffeine-content/water-joe-caffeine-water
+Wave Soda,42,12.0,3.5,https://www.caffeineinformer.com/caffeine-content/wave-soda
+Wawa Coffee,290,16.0,18.1,https://www.caffeineinformer.com/caffeine-content/wawa-coffee
+Wendy's Iced Tea,32,16.0,2.0,https://www.caffeineinformer.com/caffeine-content/wendys-iced-tea
+Wicked Energy Drink,155,16.9,9.2,https://www.caffeineinformer.com/caffeine-content/wicked-energy-drink
+Wicked Hammer Energy,80,8.4,9.5,https://www.caffeineinformer.com/caffeine-content/wicked-hammer-energy-drink
+Wild Cherry Pepsi,38,12.0,3.2,https://www.caffeineinformer.com/caffeine-content/pepsi-wild-cherry
+Wildcat Energy Drink,80,8.46,9.5,https://www.caffeineinformer.com/caffeine-content/wildcat-energy-drink
+Wired X 3000 Energy Drink,188,16.0,11.8,https://www.caffeineinformer.com/caffeine-content/wired-x-3000-energy-drink
+Wired X Berry Rush,100,16.0,6.2,https://www.caffeineinformer.com/caffeine-content/wired-x-berry-rush-energy-drink
+Wired X344 Energy Drink,344,16.0,21.5,https://www.caffeineinformer.com/caffeine-content/wired-x344-energy-drink
+X Ray Energy Drink,79,8.46,9.3,https://www.caffeineinformer.com/caffeine-content/x-ray-energy-drink
+X-Mode Energy Shot,150,1.0,150.0,https://www.caffeineinformer.com/caffeine-content/x-mode-shot
+Xing Craft Brew,120,16.0,7.5,https://www.caffeineinformer.com/caffeine-content/xing-craft-brew-tea
+Xingtea Flavored Tea,110,23.5,4.7,https://www.caffeineinformer.com/caffeine-content/xingtea-flavored-tea
+Xingtea Just Plain Tea,110,23.5,4.7,https://www.caffeineinformer.com/caffeine-content/xingtea-just-plain-tea
+XL Energy Drink,80,8.3,9.6,https://www.caffeineinformer.com/caffeine-content/xl-energy-drink
+XS Energy Drink,80,8.4,9.5,https://www.caffeineinformer.com/caffeine-content/xs-energy-drink
+Xtreme Shock Energy Drink,200,12.0,16.7,https://www.caffeineinformer.com/caffeine-content/xtreme-shock-energy-drink
+Xyience Energy Drink,176,16.0,11.0,https://www.caffeineinformer.com/caffeine-content/xenergy-energy-drink
+Yellow Tea,33,8.0,4.1,https://www.caffeineinformer.com/caffeine-content/yellow-tea
+Yerba Mate Tea,85,8.0,10.6,https://www.caffeineinformer.com/caffeine-content/yerba-mate
+Yerbae Sparkling Water,100,12.0,8.3,https://www.caffeineinformer.com/caffeine-content/yerbae
+YMateina Yerba Mate,80,8.0,10.0,https://www.caffeineinformer.com/caffeine-content/ymateina-yerba-mate
+Yoo-Hoo Chocolate Drink,2,15.5,0.1,https://www.caffeineinformer.com/caffeine-content/yoo-hoo
+Zest Highly Caffeinated Tea,150,8.0,18.8,https://www.caffeineinformer.com/caffeine-content/zest-tea
+Zevia Cola,45,12.0,3.8,https://www.caffeineinformer.com/caffeine-content/zevia-cola
+Zevia Energy Drink,120,12.0,10.0,https://www.caffeineinformer.com/caffeine-content/zevia-energy
+Zija XM+ Energy Drink,200,12.0,16.7,https://www.caffeineinformer.com/caffeine-content/zija-xm
+ZipFizz Energy Drink,100,16.0,6.2,https://www.caffeineinformer.com/caffeine-content/zipfizz-energy-drink-mix
+Zola Coconut Water Espresso,125,17.5,7.1,https://www.caffeineinformer.com/caffeine-content/zola-coconut-water-espresso
+Zola Organic Hydrating Energy Drink,120,12.0,10.0,https://www.caffeineinformer.com/caffeine-content/zola-energy-drink
+Zola Sparkling Energy Water,100,12.0,8.3,https://www.caffeineinformer.com/caffeine-content/zola-energy-water
+Zombie Blood Energy Potion,80,3.4,23.5,https://www.caffeineinformer.com/caffeine-content/zombie-blood-energy-potion

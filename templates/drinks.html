@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+    <title>HOME</title>
+</head>
+<body>
+    <div class="wrapper">
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h3>Navigation</h3>
+            </div>
+            <ul class="list-unstyled components">
+                <li class="active">
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="drinks.html">Drinks</a>
+                </li>
+                <li>
+                    <a href="caff_info.html">Caffeine Info</a>
+                </li>
+                <li>
+                    <a href="supps.html">Supplement Info</a>
+                </li>
+                <li>
+                    <a href="food.html">Foods with Caffeine</a>
+                </li>
+                <li>
+                    <a href="gum.html">Gums with Caffeine</a>
+                </li>
+                <li>
+                    <a href="datasets.html">Dataset</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col">
+                    <div class="jumbotron jumbotron-fluid">
+                        <h1 class="display-4" id="header1">Caffeinated Beverages</h1>
+                        <p class="lead">How much is too much?</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div id="inline1" class="inline-block">
+                        <p><h4>Top 10 beverages by Total Caffeine Content</h4></p>
+                        <figure >
+                            <a href="../top10.png" target="_blank">
+                                <img src="../top10.png">
+                            </a>
+                            <figcaption><em>In this case, you don't want to be number one!</em></figcaption>
+                        </figure>
+                    </div>
+                    <div id="inline2" class="inline-block">
+                        <p><h4 style="text-align: center;">Top 10 beverages by Total Fluid OZ</h4></p>
+                        <figure>
+                            <a href="../Top10fluidOZ.png" target="_blank">
+                                <img src="../Top10fluidOZ.png">
+                            </a>
+                            <figcaption><em>Everything runs on Dunkin'!</em></figcaption>
+                        </figure>
+                    </div>
+                    <div id="inline3" class="inline-block">
+                        <p><h4 style="text-align: center;">Total Caffeine Boxplot</h4></p>
+                        <figure>
+                            <a href="../Boxplot.png" target="_blank">
+                                <img src="../Boxplot.png">
+                            </a>
+                            <figcaption><em>This is a boxplot of all values related to Total Caffeine Content in mg.  The upper boundary is set to 325 and the lower boundary is 0.  </em></figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div id="inline3" class="inline-block">
+                        <p><h4>Top 10 beverages by MG per Fluid OZ and Total Caffeine Content</h4></p>
+                        <figure>
+                            <a href="../Top10mgperflcaff.png" target="_blank">
+                                <img src="../Top10mgperflcaff.png">
+                            </a>
+                            <figcaption><em>Why not just go with Raw Liquid Caffeine?</em></figcaption>
+                        </figure>
+                    </div>
+                    <div id="inline4" class="inline-block">
+                        <p><h4 style="text-align: center;">Caffeine scatter vs. Fluid Oz</h4></p>
+                        <figure>
+                            <a href="../Caffeinevfloz.png" target="_blank">
+                                <img src="../Caffeinevfloz.png">
+                            </a>
+                            <figcaption><em>Displaying relevant data only.  8 and 16 ounces seem to be the most popular sizes for beverages with caffeine.  An array of differing caffeine contents pertain to these sizes.</em></figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+            <div id="footer" class="row">
+                <p>Designed by: Ryan Kustas</p>
+                <p><a href="#" class="fa fa-twitter"></a>
+                    <a href="#" class="fa fa-linkedin"></a>
+                    <a href="#" class="fa fa-instagram"></a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+</body>
+</html>
