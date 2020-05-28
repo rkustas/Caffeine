@@ -1,115 +1,145 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
-    <title>HOME</title>
-</head>
-<body>
-    <div class="wrapper">
-        <nav id="sidebar">
-            <div class="sidebar-header">
-                <h3>Navigation</h3>
-            </div>
-            <ul class="list-unstyled components">
-                <li class="active">
-                    <a href="index.html">Home</a>
-                </li>
-                <li>
-                    <a href="drinks.html">Drinks</a>
-                </li>
-                <li>
-                    <a href="caff_info.html">Caffeine Info</a>
-                </li>
-                <li>
-                    <a href="supps.html">Supplement Info</a>
-                </li>
-                <li>
-                    <a href="food.html">Foods with Caffeine</a>
-                </li>
-                <li>
-                    <a href="gum.html">Gums with Caffeine</a>
-                </li>
-                <li>
-                    <a href="datasets.html">Dataset</a>
-                </li>
-            </ul>
-        </nav>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col">
-                    <div class="jumbotron jumbotron-fluid">
-                        <h1 class="display-4" id="header1">Caffeine Analysis Project</h1>
-                        <p class="lead">Offering bold insights into the wonderful world of C8H10N4O2</p>
-                    </div>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../../../Projects/rkustas.github.io/style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+        <title>Ryan Kustas</title>
+    </head>
+    <body>
+        <div class="wrapper">
+            <nav class="navbar navbar-expand navbar-dark flex-column flex-md-row bd-navbar">
+                <a class="navbar-brand mr-0 mr-md-2" href="../../../Projects/rkustas.github.io/index.html" aria-label="Bootstrap">
+                    <img src="../../../Projects/rkustas.github.io/static/Dumbell2.png" height="30px" width="40px">
+                </a>
+                <div class="navbar-nav-scroll">
+                    <ul class="navbar-nav bd-navbar-nav flex-row">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Caffeine</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Crossfit</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Covid</a>
+                        </li>
+                    </ul>
+                </div>
+                <ul class="navbar-nav ml-md-auto">
+                    <li class="nav-item">
+                        <a href="https://github.com/rkustas?tab=stars" class="fa fa-github"></a>
+                        <a href="#" class="fa fa-twitter"></a>
+                        <a href="https://www.linkedin.com/in/ryan-kustas" class="fa fa-linkedin"></a>
+                        <a href="#" class="fa fa-instagram"></a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="jumbotron jumbotron-fluid">
+                <div class="container-fluid">
+                <h1 class="display-4">Caffeine Curiousity</h1>
+                <p class="lead">An evaluation of the Caffeine Database</p>
                 </div>
             </div>
-            <div class="row">
-                <div class="col">
-                    <div id="accordion">
-                        <div class="card">
-                            <div class="card-header" id="headingOne">
-                                <h5 class="mb-0">
-                                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Project objectives:</button>
-                                </h5>
+            <div class="container">
+                <div class="row">
+                    <p>
+                        <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                            Objectives
+                        </a>
+                        <a class="btn btn-primary" data-toggle="collapse" href="#dataanalysiscaf" role="button" aria-expanded="false" aria-controls="collapseExample">
+                            Analysis
+                        </a>
+                    </p>
+                    <div class="collapse" id="collapseExample">
+                        <div class="card card-body">
+                            <p>
+                                <h2>How much caffeine is too much?</h2>
+                            </p>
+                            <p>
+                                The primary objective of this assignment was to evaluate the caffeine database and investigate the amount of caffeine in energy drinks and various foods.  What classifies something as having extreme caffeine? According to this source how can we cluster caffeine content, predict categories and give an overall rating for drinks and foods.
+                            </p>
+                            <div class="inline-block">
+                                <img id="energydrinkscomp" src="../Pics/drink_compilation.jpg">
+                            </div> 
+                            <div class="inline-block">
+                                <img id="codingpic" src="../Pics/codingpic.jpeg">
                             </div>
+                            <p>
+                                <h3>Tools Utilized:</h3>
+                                <li>Pandas</li>
+                                <li>Python</li>
+                                <li>Chromedriver</li>
+                                <li>Splinter</li>
+                                <li>MySQL</li>
+                            </p>
                         </div>
-                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                            <div class="card-body">
-                                <ul><h4>ETL: </h4>
-                                    Blah blah blah</ul>
-                                <ul><h4>Flask Development</h4></ul>
-                                <ul><h4>SQL Server Development</h4></ul>
-                                <ul><h4>Heroku Deployment</h4></ul>
+                    </div>
+                    <div class="collapse" id="dataanalysiscaf">
+                        <div class="card card-body">
+                            <p>
+                                <h2>Exploratory Plots:</h2>
+                                <em>Click for larger view:</em>
+                            </p>
+                            <div class="inline-block">
+                                <figure>
+                                    <a href ="../top10.png"target="_blank">
+                                        <img id="top10bytotalcaff" src="../top10.png">
+                                    </a>
+                                </figure>
+                            </div> 
+                            <div class="inline-block">
+                                <figure>
+                                    <a href="../Boxplot.png"target="_blank">
+                                        <img id="boxplot" src="../Boxplot.png">
+                                    </a>
+                                </figure>
                             </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" id="headingTwo">
-                                <h5 class="mb-0">
-                                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Challenges:</button>
-                                </h5>
+                            <div class="inline-block">
+                                <figure>
+                                    <a href="../Top10mgperflcaff.png"target="_blank">
+                                        <img id="top10bymgpercaff" src="../Top10mgperflcaff.png">
+                                    </a>
+                                </figure>
                             </div>
-                        </div>
-                        <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordion">
-                            <div class="card-body">
-                                <ul>Blah</ul>
+                            <div class="inline-block">
+                                <figure>
+                                    <a href="../Caffeinevfloz.png"target="_blank">
+                                        <img id="caffeinevfloz" src="../Caffeinevfloz.png">
+                                    </a>
+                                </figure>
                             </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" id="headingThree">
-                                <h5 class="mb-0">
-                                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">Data Sources:</button>
-                                </h5>
+                            <div class="inline-block">
+                                <figure>
+                                    <a href="../Top10fluidOZ.png"target="_blank">
+                                        <img id="top10bytotalfloz" src="../Top10fluidOZ.png">
+                                    </a>
+                                </figure>
                             </div>
-                        </div>
-                        <div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordion">
-                            <div class="card-body">
-                                <ul>The data source used for this project was the caffeine database.  Details for the website can be found here.</ul>
-                            </div>
+                            <p>
+                                
+                            </p>  
                         </div>
                     </div>
                 </div>
             </div>
             <div id="footer" class="row">
-                <p>Designed by: Ryan Kustas</p>
                 <p><a href="#" class="fa fa-twitter"></a>
-                    <a href="#" class="fa fa-linkedin"></a>
+                    <a href="https://www.linkedin.com/in/ryan-kustas" class="fa fa-linkedin"></a>
                     <a href="#" class="fa fa-instagram"></a>
+                    <a href="https://github.com/rkustas?tab=stars" class="fa fa-github"></a>
                 </p>
             </div>
         </div>
-    </div>
-    <!-- jQuery CDN - Slim version (=without AJAX) -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <!-- Popper.JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
-    <!-- Bootstrap JS -->
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
-</body>
+        <!-- jQuery CDN - Slim version (=without AJAX) -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <!-- Popper.JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+        <!-- Bootstrap JS -->
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+    </body>
 </html>

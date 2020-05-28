@@ -1,24 +1,24 @@
 caff_str,item_img,drink_name
-DANGEROUS ,https://cdn.caffeineinformer.com/wp-content/caffeine/10-hour-eternal-shot.jpg,10 Hour Energy Shot
+DANGEROUS,https://cdn.caffeineinformer.com/wp-content/caffeine/10-hour-eternal-shot.jpg,10 Hour Energy Shot
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/28-energy-drink-black-white.jpg,28 Black Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/3-caffeine-water.jpg,3 Water
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/3d-energy-drink.jpg,3D Energy Drink
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/3d-energy-drink.jpg,3D Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/4-purpose.jpg,4-Purpose
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/4c-energy-water-enhancers.jpg,4C Energy Liquid Water Enhancers
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/4-c-energy-rush.jpg,4C Energy Rush
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/5-hour-energy.jpg,5 Hour Energy
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/5-hour-energy.jpg,5 Hour Energy
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/5-hour-decaf.jpg,5 Hour Energy Decaf
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/5-hour-extra-strength.jpg,5 Hour Energy Extra Strength
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/5-hour-extra-strength.jpg,5 Hour Energy Extra Strength
 EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/7-eleven-brewed-coffee.jpg,7 Eleven Brewed Coffee
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/7-eleven-coffee-energy.jpg,7 Select Coffee Energy
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/7-eleven-energy-shot.jpg,7-Eleven Energy Shot
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/7-eleven-energy-shot.jpg,7-Eleven Energy Shot
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/7-up.jpg,7-Up
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/a-w-cream-soda.jpg,A&W Cream Soda
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/aw-root-beer.jpg,A&W Root Beer
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/diet-turbo-punch.jpg,ABB Diet Turbo
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/ace-energy-drink.jpg,Ace Energy Drink
-EXTREME and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/acute-fruit-energy-drink.jpg,Acute Fruit Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/adrenaline-shoc-energy-drink.jpg,Adrenaline Shoc
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/acute-fruit-energy-drink.jpg,Acute Fruit Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/adrenaline-shoc-energy-drink.jpg,Adrenaline Shoc
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/slam-energy-drink.jpg,Advocare Slam Energy Shot
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/advocare-slim.jpg,Advocare Slim
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/afri-cola.jpg,Afri Cola
@@ -41,7 +41,7 @@ HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/avitae-caffeine-water.
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/axio.jpg,AXIO Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/b-63-energy-drink.jpg,B 63 Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/bai-drink.jpg,Bai Antioxidant Infusion
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/bang-energy-drink.jpg,BANG Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/bang-energy-drink.jpg,BANG Energy Drink
 EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/barista-bros.jpg,Barista Bros Iced Coffee
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/barqs-red-creme-soda.jpg,Barq's Red Creme Soda
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/barqs-root-beer.jpg,Barq's Root Beer
@@ -57,7 +57,7 @@ MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/bazi-energy-drink.
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/beaver-buzz-energy-drink.jpg,Beaver Buzz Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/beebad-energy-drink.jpg,BEEBAD Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/berocca.jpg,Berocca
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/berzerk.jpg,Berzerk Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/berzerk.jpg,Berzerk Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/big-red-jak-energy-drink.jpg,Big Jak Energy Drink
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/big-red-soda.jpg,Big Red Soda
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/big-train-java-chip-ice-coffee.jpg,Big Train Java Chip Ice Coffee
@@ -94,7 +94,7 @@ CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/bubly.jpg,Bub
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/bulletproof-coffee.jpg,Bulletproof Coffee
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/burn-uk.jpg,Burn Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/buzz-monkey-energy-drink.jpg,Buzz Monkey
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/c4-energy-drink.jpg,C4 On The Go
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/c4-energy-drink.jpg,C4 On The Go
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/bustelo-coffee.jpg,Cafe Bustelo
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/cafe-viva.jpg,Cafe Viva Probiotic Coffee
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/cafe-mocha.jpg,Caffe Mocha
@@ -110,8 +110,8 @@ VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/cappuccino.jpg,Ca
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/carabao.jpg,Carabao Energy Drink
 EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/caribou-coffee.jpg,Caribou Brewed Coffee
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/cbd-coffee-green-roads.jpg,CBD Coffee
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/celsius-energy-drink.jpg,Celsius Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/celsius-heat.jpg,Celsius Heat Energy Drink
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/celsius-energy-drink.jpg,Celsius Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/celsius-heat.jpg,Celsius Heat Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/chai-tea.jpg,Chai Tea
 EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/chameleon-cold-brew-coffee.jpg,Chameleon Cold Brew Coffee
 EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/chameleon-rtd.jpg,Chameleon Cold Brew RTD Coffee
@@ -136,8 +136,8 @@ CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/coca-cola-fre
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/coca-cola-classic.jpg,Coca-Cola Classic
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/coke-energy-drink.jpg,Coca-Cola Energy
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/coke-life.jpg,Coca-Cola Life
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/cocaine-energy-drink.jpg,Cocaine Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/cocaine-energy-shot.jpg,Cocaine Energy Shot
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/cocaine-energy-drink.jpg,Cocaine Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/cocaine-energy-shot.jpg,Cocaine Energy Shot
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/coffee-brewed.jpg,Coffee
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/coffee-decaf-instant.jpg,Decaf Instant Coffee
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/coffee-instant.jpg,Instant Coffee
@@ -165,7 +165,7 @@ DANGEROUS,https://cdn.caffeineinformer.com/wp-content/caffeine/death-wish-coffee
 EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/nitro-brew-death-wish-coffee.jpg,Death Wish Nitro Brew
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/coffee-decaf-brewed.jpg,Decaf Coffee
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/demon-energy.jpg,Demon Energy Drink
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/demon-energy-shot.jpg,Demon Energy Shot
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/demon-energy-shot.jpg,Demon Energy Shot
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/diabolo-loco-energy-drink.jpg,Diabolo Loco Energy Drink
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/diet-a-w-cream-soda.jpg,Diet A&W Cream Soda
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/diet-barqs.jpg,Diet Barqs Root Beer
@@ -213,7 +213,7 @@ VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/dunkin-donuts-moc
 EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/dunkin-energy-cold-brew.jpg,Dunkin' Energy Cold Brew
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/blue-rebel-energy-drink.jpg,Dutch Bros. Blue Rebel Energy Drink
 EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/dutch-bros-coffee.jpg,Dutch Bros. Coffee
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/e6-energy-shot.jpg,E6 Energy Shot
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/e6-energy-shot.jpg,E6 Energy Shot
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/eboost-energy-drink.jpg,Eboost Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/eboost-instant-lift.jpg,EBOOST Energy Shot
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/eboost-super-fuel.jpg,EBOOST Super Fuel
@@ -224,11 +224,11 @@ VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/electric-monkey-w
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/element-caffeinated-water.jpg,Element Caffeinated Water
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/emerge-energy-drink.jpg,Emerge
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/enerbee.jpg,EnerBee Energy Drink
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/energi-zing-shake-nutrisystem.jpg,Energi-ZING Shake by Nutrisystem
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/energi-zing-shake-nutrisystem.jpg,Energi-ZING Shake by Nutrisystem
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/espresso.jpg,Espresso Shot
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/eternal-energy-shot.jpg,Eternal Energy Shot
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/eternal-energy-shot.jpg,Eternal Energy Shot
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/euroshopper-energy-drink.jpg,Euro Shopper Energy Drink
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/extreme-thermo-rush-energy-drink.jpg,Extreme Thermo Rush
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/extreme-thermo-rush-energy-drink.jpg,Extreme Thermo Rush
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/forever-active-boost.jpg,FAB Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/fakeer-energy-drink.jpg,Fakeer Energy Drink
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/fanta-soft-drinks.jpg,Fanta
@@ -240,7 +240,7 @@ HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/flying-power-energy-dr
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/folgers.jpg,Folgers Coffee
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/formula-168-lift.jpg,Formula168 Lift Energy Drink
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/formula-168-surge.jpg,Formula168 Surge Energy Shot
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/forto-coffee.jpg,Forto Organic Coffee Shot
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/forto-coffee.jpg,Forto Organic Coffee Shot
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/fresca.jpg,Fresca
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/fritz-kola.jpg,Fritz Kola
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/frs.jpg,FRS Energy Drink
@@ -248,7 +248,7 @@ VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/full-throttle-ene
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/7-eleven.jpg,Full Throttle Frozen Blast
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/function-alternative-energy-drink.jpg,Function Alternative Energy
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/fuze-iced-tea.jpg,Fuze Iced Tea
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/g-fuel-rtd-energy-drink.jpg,G Fuel Cans
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/g-fuel-rtd-energy-drink.jpg,G Fuel Cans
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/g-fuel-energy-drink-mix.jpg,G Fuel Energy Drink Mix
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/game-juice-soda.jpg,Game Juice
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/gatorade-energize.jpg,Gatorade Bolt 24 Energize
@@ -286,7 +286,7 @@ DANGEROUS,https://cdn.caffeineinformer.com/wp-content/caffeine/high-voltage.jpg,
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/hint-kick-water.jpg,Hint Caffeine Kick Water
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/honest-teas.jpg,Honest Tea
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/hot-cocoa.jpg,Hot Cocoa (Hot Chocolate)
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/hyde-energy-drink.jpg,Hyde Power Potion
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/hyde-energy-drink.jpg,Hyde Power Potion
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/hype-energy-drinks.jpg,Hype Energy Drink
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/ibc-root-beer.jpg,IBC Root Beer
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/illy-issimo-latte-macchiato.jpg,Illy Issimo Cafe
@@ -299,9 +299,9 @@ HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/ishot-energy-shot.jpg,
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/ishot-love-potion-energy-shot.jpg,iShot Love Potion
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/ishot-skinny-energy-shot.jpg,iShot Skinny Energy Shot
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/java-kick.jpg,Java Kick Energy Drink
-VERY HIGH and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/java-monster.jpg,Java Monster
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/java-monster.jpg,Java Monster
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/jiva-coffee.jpg,Jiva Instant Coffee
-EXTREME and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/joker-energy-drink.jpg,Joker Mad Energy
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/joker-energy-drink.jpg,Joker Mad Energy
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/jolt-energy-drink.jpg,Jolt Cola
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/keurig-decaf.jpg,K Cup Decaf
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/k-cup-tea.jpg,K Cup Tea
@@ -328,7 +328,7 @@ VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/la-colombe-cold-b
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/draft-latte.jpg,La Colombe Draft Latte
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/la-croix.jpg,La Croix Sparkling Water
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/latte.jpg,Latte
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/levlup.jpg,LevlUp Gaming Booster
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/levlup.jpg,LevlUp Gaming Booster
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/life-blast-xtreme-energy.jpg,Life Blast Xtreme Energy
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/lift-plus-energy-drink.jpg,Lift Plus Energy Drink
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/limelite-fusion-energy-drink.jpg,Limelite Fusion Energy Drink
@@ -337,7 +337,7 @@ LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/lipton-brisk-lemon.jpg,
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/lipton-iced-tea.jpg,Lipton Iced Tea
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/lipton-natural-energy-tea.jpg,Lipton Natural Energy Tea
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/lipton-tea.jpg,Lipton Tea
-DANGEROUS ,https://cdn.caffeineinformer.com/wp-content/caffeine/5150-juice-caffeine-liquid.jpg,Liquid Caffeine
+DANGEROUS,https://cdn.caffeineinformer.com/wp-content/caffeine/5150-juice-caffeine-liquid.jpg,Liquid Caffeine
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/liquid-ice-energy-drink.jpg,Liquid Ice Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/long-black-espresso.jpg,Long Black
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/long-island-iced-tea.jpg,Long Island Iced Tea
@@ -360,10 +360,10 @@ VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/mcdonalds-mocha.j
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/mcdonalds-large-coffee.jpg,McDonalds Coffee
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/mcdonalds-iced-coffee.jpg,McDonalds Iced Coffee
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/mcdonalds-sweet-iced-tea.jpg,McDonalds Sweet Tea
-EXTREME and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/mega-monster-energy-drink.jpg,Mega Monster Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/mega-monster-energy-drink.jpg,Mega Monster Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/mello-yello.jpg,Mello Yello
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/diet-mello-yello.jpg,Mello Yello Zero
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/vpx-meltdown-1-keto.jpg,Meltdown Ketone Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/vpx-meltdown-1-keto.jpg,Meltdown Ketone Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/mio-energy-water-enhancer.jpg,MiO Energy Water Enhancer
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/missile-energy-drink.jpg,Missile Energy Drink
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/monavie.jpg,MonaVie
@@ -375,14 +375,14 @@ VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-dub.jpg,M
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster.jpg,Monster Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/mexico-monster-energy.jpg,Monster Energy Mexico
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-import-uk.jpg,Monster Export
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-hitman-sniper-shot.jpg,Monster Hitman Sniper
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-hitman-sniper-shot.jpg,Monster Hitman Sniper
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-hydro.jpg,Monster Hydro Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-import.jpg,Monster Import
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-khaos.jpg,Monster Khaos
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-lo-carb-uk.jpg,Monster Lo-Carb
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-m3-energy-drink.jpg,Monster M3 Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-juiced-mango-loco.jpg,Monster Mango Loco
-VERY HIGH and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-extra-strength-energy-drink.jpg,Monster Maxx
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-extra-strength-energy-drink.jpg,Monster Maxx
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-mixxd-energy-drink.jpg,Monster Mixxd Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-mutant-soft-drink.jpg,Monster Mutant Super Soda
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/monster-pink-energy-drink.jpg,Monster Pink Energy Drink
@@ -435,14 +435,14 @@ HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/neuro-fuel-energy-drin
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/no-fear-motherload-energy-drink.jpg,No Fear Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/nocco.jpg,NOCCO Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/noocaf.jpg,Noocaf Smart Coffee
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/nos-active-sports-drink.jpg,NOS Active Sports Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/nos-active-sports-drink.jpg,NOS Active Sports Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/nos-energy-drink.jpg,NOS Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/nos-energy-drink-new-zealand.jpg,NOS Energy Drink (New Zealand Brand)
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/nos-loaded-cherry-energy-drink.jpg,NOS Loaded Cherry
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/nutramint.jpg,NuTraMint Smart Serum
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/nutramint.jpg,NuTraMint Smart Serum
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/nuun-energy-tabs.jpg,Nuun Energy Drink
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/ocean-spray-brew.jpg,Ocean Spray Brew
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/octane-energy-drink.jpg,Octane Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/octane-energy-drink.jpg,Octane Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/oi-ocha-green-tea.jpg,Oi Ocha Green Tea
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/oikos-caffeinated-yogurt-drink.jpg,Oikos Pro Fuel
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/ok-energy-drink.jpg,OK Energy Drink
@@ -451,7 +451,7 @@ VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/ongo-energy.jpg,O
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/oprah-chai-tea.jpg,Oprah Chai Tea Latte
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/orange-crush.jpg,Orange Crush
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/oregon-chai.jpg,Oregon Chai Tea
-EXTREME and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/outlaw.jpg,Outlaw Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/outlaw.jpg,Outlaw Energy Drink
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/ovaltine.jpg,Ovaltine
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/pacific-chai.jpg,Pacific Chai
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/panera-bread-coffee.jpg,Panera Bread Coffee
@@ -485,11 +485,11 @@ LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/pepsi-throwback.jpg,Pep
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/pepsi-true.jpg,Pepsi True
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/pepsi-max.jpg,Pepsi Zero Sugar
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/performance-energy-shot.jpg,Performance Caffeine
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/endurelite-performelite.jpg,PerformElite Pre-Workout
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/endurelite-performelite.jpg,PerformElite Pre-Workout
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/perrier.jpg,Perrier Sparkling Water
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/pg-tips-tea.jpg,PG Tips Black Tea
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/phocus-caffeinated-sparkling-water.jpg,Phocus Sparkling Water
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/phoenix-energy-shot.jpg,Phoenix Energy Shot
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/phoenix-energy-shot.jpg,Phoenix Energy Shot
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/pibb-xtra.jpg,Pibb Xtra
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/pibb-zero.jpg,Pibb Zero
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/polar-frost.jpg,Polar Frost Plus Energy
@@ -509,9 +509,9 @@ MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/pure-leaf-iced-tea
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/purity-coffee.jpg,Purity Coffee
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/quad-energy-drink.jpg,Quad Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/quake-energy-slurpee.jpg,Quake Energy Berry Blast Slurpee
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/quake-7-eleven.jpg,Quake Energy Drink
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/rage-energy-drink.jpg,Rage Liquid Energy
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/raze-energy-drink.jpg,Raze Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/quake-7-eleven.jpg,Quake Energy Drink
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rage-energy-drink.jpg,Rage Liquid Energy
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/raze-energy-drink.jpg,Raze Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/royal-crown-cola.jpg,RC Cola
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/cherry-rc-cola.jpg,"RC Cola, Cherry"
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/real-beanz-iced-coffee.jpg,Real Beanz Iced Coffee
@@ -538,21 +538,21 @@ MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/red-rooster-energy
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/red-rose-energy-tea.jpg,Red Rose Energy Tea
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/aldi-red-thunder.jpg,Red Thunder Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/red-thunder-shot-aldi.jpg,Red Thunder Energy Shot
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/red-thunder-shot-extra.jpg,Red Thunder Extra Strength
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/redline-rtd.jpg,Redline Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/redline-power-rush.jpg,Redline Power Rush
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/redline-princess.jpg,Redline Princess
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/redline-xtreme-drink.jpg,Redline Xtreme Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/redline-xtreme-energy-shot.jpg,Redline Xtreme Shot
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/red-thunder-shot-extra.jpg,Red Thunder Extra Strength
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/redline-rtd.jpg,Redline Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/redline-power-rush.jpg,Redline Power Rush
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/redline-princess.jpg,Redline Princess
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/redline-xtreme-drink.jpg,Redline Xtreme Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/redline-xtreme-energy-shot.jpg,Redline Xtreme Shot
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/reeds-ginger-energy-shot.jpg,Reed's Ginger Energize Shot
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/reign-energy-drink.jpg,Reign Total Body Fuel
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/reign-energy-drink.jpg,Reign Total Body Fuel
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/reize.jpg,Reize Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/relentless.jpg,Relentless Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/revv-coffee.jpg,Revv Coffee Pods
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/rhinorush-energy-shot.jpg,Rhino Rush Energy Shot.
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rhinorush-energy-shot.jpg,Rhino Rush Energy Shot.
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rip-it-energy-drink.jpg,Rip It Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rip-it-energy-shot.jpg,Rip It Energy Shot
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/ripped-force-energy-drink.jpg,Ripped Force Energy Drink
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/ripped-force-energy-drink.jpg,Ripped Force Energy Drink
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/ritz-cola.jpg,Ritz Cola
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/roaring-lion-energy-drink.jpg,Roaring Lion Energy Drink
 EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/robusta-coffee.jpg,Robusta Coffee
@@ -562,30 +562,30 @@ VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-boom-ene
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-burner.jpg,Rockstar Burner Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-energy-cola.jpg,Rockstar Energy Cola
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar.jpg,Rockstar Energy Drink
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-energy-shot.jpg,Rockstar Energy Shot
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-energy-shot.jpg,Rockstar Energy Shot
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-energy-water.jpg,Rockstar Energy Water
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-first-start.jpg,Rockstar First Start Energy Drink
-EXTREME and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-hardcore.jpg,Rockstar Hardcore Energy Drink
-EXTREME and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-horchata.jpg,Rockstar Horchata Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-iced-energy-drink.jpg,Rockstar Iced Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-hardcore.jpg,Rockstar Hardcore Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-horchata.jpg,Rockstar Horchata Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-iced-energy-drink.jpg,Rockstar Iced Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-juiced.jpg,Rockstar Juiced
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-lime-freeze.jpg,Rockstar Lime Freeze
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-organic.jpg,Rockstar Organic Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-pink-energy-drink.jpg,Rockstar Perfect Berry
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-pink-energy-drink.jpg,Rockstar Perfect Berry
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-pina-colada.jpg,Rockstar Pina Colada
-EXTREME and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-citrus-punched.jpg,Rockstar Punched
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-citrus-punched.jpg,Rockstar Punched
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-punched-energy-guava.jpg,Rockstar Punched (non-USA)
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-punched-guava.jpg,Rockstar Punched Guava
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-pure-zero.jpg,Rockstar Pure Zero Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-pure-zero.jpg,Rockstar Pure Zero Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-recovery-energy-hydration.jpg,Rockstar Recovery
-EXTREME and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-revolt.jpg,Rockstar Revolt Energy Drink
-EXTREME and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-roasted.jpg,Rockstar Roasted
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-revolt.jpg,Rockstar Revolt Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-roasted.jpg,Rockstar Roasted
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-sparkling-energy.jpg,Rockstar Sparkling Energy
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-energy-shake.jpg,Rockstar Sport Energy Shake
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-super-sours-energy-drink.jpg,Rockstar Super Sours
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-thermo-energy-drink.jpg,Rockstar Thermo
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-xdurance-energy-drink.jpg,Rockstar XDurance Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-zero-carb.jpg,Rockstar Zero Carb
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-thermo-energy-drink.jpg,Rockstar Thermo
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-xdurance-energy-drink.jpg,Rockstar XDurance Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/rockstar-zero-carb.jpg,Rockstar Zero Carb
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rogue-energy-drink-mix.jpg,Rogue Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/rootjack-caffeinated-pirate-root-beer.jpg,RootJack Caffeinated Pirate Root Beer
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/ruby-red-squirt.jpg,Ruby Red Squirt
@@ -616,16 +616,16 @@ HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/soylent.jpg,Soylent St
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/advocare-spark.jpg,Spark Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/sparkling-ice-caffeine.jpg,Sparkling Ice +Caffeine
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/speed-fuel-energy-drink-robby-gordon.jpg,Speed Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/speed-stack-energy-drink.jpg,Speed Stack Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/spider-energy-drink.jpg,Spider Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/spike-double-shot.jpg,Spike Energy Double Shot
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/spike-shotgun.jpg,Spike Energy Drink
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/spike-shooter.jpg,SPIKE Shooter
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/speed-stack-energy-drink.jpg,Speed Stack Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/spider-energy-drink.jpg,Spider Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/spike-double-shot.jpg,Spike Energy Double Shot
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/spike-shotgun.jpg,Spike Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/spike-shooter.jpg,SPIKE Shooter
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/sprecher-cherry-cola.jpg,Sprecher Cherry Cola
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/sprite.jpg,Sprite
 CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/squirt.jpg,Squirt Soda
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/stacker-extreme-shot.jpg,Stacker Extreme Energy Shot
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/starbucks-triple-shot.jpg,Starbuck's Triple Shot Energy
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/stacker-extreme-shot.jpg,Stacker Extreme Energy Shot
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/starbucks-triple-shot.jpg,Starbuck's Triple Shot Energy
 EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/starbucks-bottled-cold-brew.jpg,Starbucks Bottled Cold Brew
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/starbucks-bottled-frappucino.jpg,Starbucks Bottled Frappuccino
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/starbucks-bottled-iced-coffee.jpg,Starbucks Bottled Iced Coffee
@@ -716,7 +716,7 @@ HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/up-time-energy-drink.j
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/rev3-energy-drink.jpg,USANA Rev3 Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/v-double-espresso.jpg,V Double Espresso Iced Coffee
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/v.jpg,V Energy Drink
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/v-pocket-rocket-energy-shot.jpg,V Pocket Rocket Energy Shot
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/v-pocket-rocket-energy-shot.jpg,V Pocket Rocket Energy Shot
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/v8-fusion-energy-drink.jpg,V8 Fusion Energy Drink
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/vanilla-coke.jpg,Vanilla Coke
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/coke-zero-vanilla.jpg,Vanilla Coke Zero
@@ -728,7 +728,7 @@ CAFFEINE FREE,https://cdn.caffeineinformer.com/wp-content/caffeine/vernors-ginge
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/verve-energy-drink.jpg,Verve! Energy Drink
 DANGEROUS,https://cdn.caffeineinformer.com/wp-content/caffeine/very-strong-coffee.jpg,Very Strong Coffee
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/virtue-energy.jpg,Virtue Energy Water
-EXTREME and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/viso-energy-drink.jpg,Viso Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/viso-energy-drink.jpg,Viso Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/vital-4u-energy-shot.jpg,Vital 4U Energy Shot
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/glaceau-vitaminwater.jpg,VitaminWater Energy
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/vitarain-energy-enhanced-water.jpg,VitaRain Energy Enhanced Water
@@ -741,7 +741,7 @@ LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/waka-tea.jpg,WAKA Insta
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/warrior-energy-drink.jpg,Warrior Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/water-joe-caffeine-water.jpg,Water Joe
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/wave-soda.jpg,Wave Soda
-EXTREME ,https://cdn.caffeineinformer.com/wp-content/caffeine/wawa-coffee.jpg,Wawa Coffee
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/wawa-coffee.jpg,Wawa Coffee
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/wendys-iced-tea.jpg,Wendy's Iced Tea
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/wicked-energy-drink.jpg,Wicked Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/wicked-hammer-energy-drink.jpg,Wicked Hammer Energy
@@ -749,7 +749,7 @@ LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/pepsi-wild-cherry.jpg,W
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/wildcat-energy-drink.jpg,Wildcat Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/wired-x-3000-energy-drink.jpg,Wired X 3000 Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/wired-x-berry-rush-energy-drink.jpg,Wired X Berry Rush
-EXTREME and sugar.,https://cdn.caffeineinformer.com/wp-content/caffeine/wired-x344-energy-drink.jpg,Wired X344 Energy Drink
+EXTREME,https://cdn.caffeineinformer.com/wp-content/caffeine/wired-x344-energy-drink.jpg,Wired X344 Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/x-ray-energy-drink.jpg,X Ray Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/x-mode-shot.jpg,X-Mode Energy Shot
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/xing-craft-brew-tea.jpg,Xing Craft Brew
@@ -757,7 +757,7 @@ HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/xingtea-flavored-tea.j
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/xingtea-just-plain-tea.jpg,Xingtea Just Plain Tea
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/xl-energy-drink.jpg,XL Energy Drink
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/xs-energy-drink.jpg,XS Energy Drink
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/xtreme-shock-energy-drink.jpg,Xtreme Shock Energy Drink
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/xtreme-shock-energy-drink.jpg,Xtreme Shock Energy Drink
 VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/xenergy-energy-drink.jpg,Xyience Energy Drink
 LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/yellow-tea.jpg,Yellow Tea
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/yerba-mate.jpg,Yerba Mate Tea
@@ -767,7 +767,7 @@ LOW,https://cdn.caffeineinformer.com/wp-content/caffeine/yoo-hoo.jpg,Yoo-Hoo Cho
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/zest-tea.jpg,Zest Highly Caffeinated Tea
 MODERATE,https://cdn.caffeineinformer.com/wp-content/caffeine/zevia-cola.jpg,Zevia Cola
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/zevia-energy.jpg,Zevia Energy Drink
-VERY HIGH ,https://cdn.caffeineinformer.com/wp-content/caffeine/zija-xm.jpg,Zija XM+ Energy Drink
+VERY HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/zija-xm.jpg,Zija XM+ Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/zipfizz-energy-drink-mix.jpg,ZipFizz Energy Drink
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/zola-coconut-water-espresso.jpg,Zola Coconut Water Espresso
 HIGH,https://cdn.caffeineinformer.com/wp-content/caffeine/zola-energy-drink.jpg,Zola Organic Hydrating Energy Drink

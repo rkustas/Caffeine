@@ -1,51 +1,51 @@
-supp,caff_per_serv,caff_source
-ABB Speed Stacked Pumped,300/bottle,"Caffeine Anhydrous, Guarana"
-About Time AUX,60/scoop,"Yerba Mate’, Guarana, Green Tea"
-BANG Energy Drink,300/can,Caffeine Anhydrous
-Hyde Power Potion,350/can,Caffeine Anhydrous
-BPI B4,300/capsule*,Caffeine Anhydrous
-Adrenaline Shoc,300/can,Caffeine Anhydrous
-BSN Endo Rush,300/scoop,"Caffeine Anhydrous, Green Tea, Green Coffee Beans"
-Raze,300/can,Caffeine Anhydrous
-Celsius Heat,300/can,Caffeine Anhydrous
-BSN N.O. Xplode 2.0,275/scoop,Caffeine Anhydrous
-Reign Total Body Fuel,300/can,Caffeine Anhydrous
-Rockstar Xdurance,300/can,Caffeine Anhydrous
-Speed Stack,250/bottle,Caffeine Anhydrous
-Cellucor C4 Extreme,200/scoop,Caffeine Anhydrous
-Cellucor C4 Pre-Workout,150/scoop,Caffeine Anhydrous
-Cellucor C4 Ripped,150/scoop,Caffeine Anhydrous
-Nitro Surge,180/scoop,Caffeine Anhydrous
-Insane labs Psychotic,300/scoop,Caffeine Anhydrous
-Promix P,200/scoop,Caffeine Anhydrous
-Evolution Nutrition ENGN,300/scoop,Caffeine Anhydrous/ VitaShure Caffeine
-Naked Energy Pre-workout,200/scoop,Green coffee beans
-DyNo by RSP Nutrition,300/scoop,Caffeine Anhydrous
-EndurElite PerformElite,225/scoop,Caffeine Anhydrous/ Caffeine Pterostilbene Cocrystal
-Vintage Blast Pre-workout,250/scoop,Caffeine Anhydrous/ Micro-encapsulated caffeine
-GAT Nitraflex,325/scoop,?
-GNC Hyper-Ripped,150/scoop,Caffeine Anhydrous
-Legion Pulse,350/2 scoops,Caffeine Anhydrous
-IdealLean Pre-Workout,150/scoop,Natural caffeine
-iForce Maximize Intense,200/scoop,Caffeine Anhydrous
-Pre-Kaged,274/scoop,Purecaf organic caffeine
-Beyond Raw LIT,250/scoop,Caffeine Anhydrous
-Six Star Explosion,135/scoop,Caffeine Anhydrous
-Mr. Hyde Icon,250/scoop,Caffeine Anhydrous
-Mr. Hyde by Pro Supps,196/scoop,Caffeine Anhydrous/ Dicaffeine Malate
-Mr. Hyde Nitro X,375/scoop,Caffeine Anhydrous/ Dicaffeine Malate/ Caffeine Citric Acid
-Muscle Marinade,300/scoop,"1,3,7-trimethylxanthine"
-Muscle Pharm Assault,250/scoop,Caffeine Anhydrous
-MuscleTech Neurocore,110/scoop,Caffeine Anhydrous
-Transparent Labs Lean,180/scoop,Caffeine Anhydrous
-NANO Vaporx5 ,190/scoop,Caffeine Anhydrous
-RARI Nutrition Infinity,350/scoop,Caffeine Anhydrous
-Octane Energy/Sports Drink,225/ scoop,Caffeine Anhydrous
-ON Gold Standard Preworkout,175/scoop,Green coffee and green tea extract
-ON AMIN.O. Energy,100/2 scoops,Green coffee and green tea extract
-Oxyelite Pro,100/capsule,Caffeine Anhydrous
-Pre JYM,300/scoop,Caffeine Anhydrous
-Redline RTD,250/bottle,Caffeine Anhydrous
-Cobra Labs The Curse,155/scoop,Caffeine Anhydrous
-Recon1 Total War,350/scoop,Caffeine Anhydrous/ Dicaffeine Malate
-Nutrex Research Outlift,350/scoop,Caffeine Anhydrous
+supp,caff_source,serving_size,caff
+ABB Speed Stacked Pumped,"Caffeine Anhydrous, Guarana",bottle,300
+About Time AUX,"Yerba Mate’, Guarana, Green Tea",scoop,60
+BANG Energy Drink,Caffeine Anhydrous,can,300
+Hyde Power Potion,Caffeine Anhydrous,can,350
+BPI B4,Caffeine Anhydrous,capsule,300
+Adrenaline Shoc,Caffeine Anhydrous,can,300
+BSN Endo Rush,"Caffeine Anhydrous, Green Tea, Green Coffee Beans",scoop,300
+Raze,Caffeine Anhydrous,can,300
+Celsius Heat,Caffeine Anhydrous,can,300
+BSN N.O. Xplode 2.0,Caffeine Anhydrous,scoop,275
+Reign Total Body Fuel,Caffeine Anhydrous,can,300
+Rockstar Xdurance,Caffeine Anhydrous,can,300
+Speed Stack,Caffeine Anhydrous,bottle,250
+Cellucor C4 Extreme,Caffeine Anhydrous,scoop,200
+Cellucor C4 Pre-Workout,Caffeine Anhydrous,scoop,150
+Cellucor C4 Ripped,Caffeine Anhydrous,scoop,150
+Nitro Surge,Caffeine Anhydrous,scoop,180
+Insane labs Psychotic,Caffeine Anhydrous,scoop,300
+Promix P,Caffeine Anhydrous,scoop,200
+Evolution Nutrition ENGN,Caffeine Anhydrous/ VitaShure Caffeine,scoop,300
+Naked Energy Pre-workout,Green coffee beans,scoop,200
+DyNo by RSP Nutrition,Caffeine Anhydrous,scoop,300
+EndurElite PerformElite,Caffeine Anhydrous/ Caffeine Pterostilbene Cocrystal,scoop,225
+Vintage Blast Pre-workout,Caffeine Anhydrous/ Micro-encapsulated caffeine,scoop,250
+GAT Nitraflex,?,scoop,325
+GNC Hyper-Ripped,Caffeine Anhydrous,scoop,150
+Legion Pulse,Caffeine Anhydrous,2 scoops,350
+IdealLean Pre-Workout,Natural caffeine,scoop,150
+iForce Maximize Intense,Caffeine Anhydrous,scoop,200
+Pre-Kaged,Purecaf organic caffeine,scoop,274
+Beyond Raw LIT,Caffeine Anhydrous,scoop,250
+Six Star Explosion,Caffeine Anhydrous,scoop,135
+Mr. Hyde Icon,Caffeine Anhydrous,scoop,250
+Mr. Hyde by Pro Supps,Caffeine Anhydrous/ Dicaffeine Malate,scoop,196
+Mr. Hyde Nitro X,Caffeine Anhydrous/ Dicaffeine Malate/ Caffeine Citric Acid,scoop,375
+Muscle Marinade,"1,3,7-trimethylxanthine",scoop,300
+Muscle Pharm Assault,Caffeine Anhydrous,scoop,250
+MuscleTech Neurocore,Caffeine Anhydrous,scoop,110
+Transparent Labs Lean,Caffeine Anhydrous,scoop,180
+NANO Vaporx5,Caffeine Anhydrous,scoop,190
+RARI Nutrition Infinity,Caffeine Anhydrous,scoop,350
+Octane Energy/Sports Drink,Caffeine Anhydrous,scoop,225
+ON Gold Standard Preworkout,Green coffee and green tea extract,scoop,175
+ON AMIN.O. Energy,Green coffee and green tea extract,2 scoops,100
+Oxyelite Pro,Caffeine Anhydrous,capsule,100
+Pre JYM,Caffeine Anhydrous,scoop,300
+Redline RTD,Caffeine Anhydrous,bottle,250
+Cobra Labs The Curse,Caffeine Anhydrous,scoop,155
+Recon1 Total War,Caffeine Anhydrous/ Dicaffeine Malate,scoop,350
+Nutrex Research Outlift,Caffeine Anhydrous,scoop,350

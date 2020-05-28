@@ -74,23 +74,23 @@ def drinklist():
 
     return jsonify(drink_list)
 
-
+# Canonicalized not working, need to enter exact string
 @app.route("/api/v1.0/drinklist/<drink>")
 def drinkchoice(drink):
-    # canonicalized = drink.replace(" ","").lower()
+    canonicalized = drink.replace(" ","").lower()
     choice_list = session.query(Drinks).\
-        filter(Drinks.drinks == drink).all()
+        filter(Drinks.drinks == canonicalized).all()
     choicelist = []
     for c in choice_list:
-        # search_term = c.drinks.replace(" ","").lower()
-        # if search_term == canonicalized:
-        choice = {}
-        choice['Drink Name'] = c.drinks
-        choice['Caffeine Content'] = c.caff_cont
-        choice['Serving Size Fluid OZ'] = c.fluid_oz
-        choice['MG per oz'] = c.mg_per_oz
-        choice['Page URL'] = c.url
-        choicelist.append(choice)
+        search_term = c.drinks.replace(" ","").lower()
+        if search_term == canonicalized:
+            choice = {}
+            choice['Drink Name'] = c.drinks
+            choice['Caffeine Content'] = c.caff_cont
+            choice['Serving Size Fluid OZ'] = c.fluid_oz
+            choice['MG per oz'] = c.mg_per_oz
+            choice['Page URL'] = c.url
+            choicelist.append(choice)
 
     return jsonify(choicelist)
 
